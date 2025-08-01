@@ -95,4 +95,7 @@ When we chose this name, it was because we are people who are using the possible
 
 ## Team presentation 😒
 
-
+### Jean Sosa
+| Name | Description & Rol | Age |
+|:---|:---|:---|
+| [ Jean Paul Sosa Cruz ](https://www.instagram.com/jean_zo3/) | Robot logic developer, 3D designer and 3D printing, Robot documentation as well as team workflow. | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-55145132-244c-448c-8e6f-8780866e4862?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-55145132-244c-448c-8e6f-8780866e4862%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)|
