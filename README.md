@@ -68,3 +68,24 @@ This is the official repository of the Seteki® team that will represent Institu
 
 
 We are Team Seteki, proudly representing Instituto Episcopal San José in Panama’s World Robot Olympiad (WRO) Future Engineers 2025 category. Our mission is to blend technology and innovation, knowing that innovation can go hand-in-hand with responsibility.
+
+### Our Philosophy 😎
+We are a team in which there are no hierarchies in the team, we each develop our parts and we are all involved and we `KNOW` every part of the realization of this whole project that would be our robor [ARA](https://github.com/seteki/III-Wind/tree/main/ARA%20Versions), we have values of humility and perseverance as a team, both when we work as a team as well as when we go to compete, we are a team in which two already have experience in what is robotics and specifically the WRO competition and we have a rookie in this world of what robotics is.
+
+With our project we want to innovate and bring something that is well worked to this competition, we want the effort put into this robot to be noticed.
+
+The truth is that our team is in a balance that we feel comfortable and perfect, each one develops a part that is essential for the other part, so we need each other and are values that apart from robotics and technological competition, are values that the WRO is also seeking to establish in all its competitors.
+
+Without further ado, let's continue btw :) 
+
+## Team Name Explication 🥸
+
+The name of our Team ( [Seteki](https://es.wikipedia.org/wiki/Atelopus_zeteki) ), comes from an animal called ‘'[ ***Atelopus zeteki*** ](https://static.inaturalist.org/photos/56362/medium.jpg)’'. 
+It is a small species of anuran amphibian of the Bufonidae family.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1743994f-4b8e-47a4-bd1a-c07c2f21a792" alt="Texto descriptivo" width="300"/>
+</div>
+
+When we chose this name, it was because we are people who are using the possible resources to develop these robots and technology, but sometimes we forget that all this comes from natural resources and we are taking advantage of all this and we do not take care of it, and as a small annex we wanted to give this message that we also have a responsibility to the world and in addition to this we also want to have our country represented in our team.
+
