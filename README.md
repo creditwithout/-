@@ -117,6 +117,20 @@ When we chose this name, it was because we are people who are using the possible
 
 The name of all versions of our robot (ARA) comes from  [***Ara macao***](https://es.wikipedia.org/wiki/Ara_(animal)#:~:text=Ara%20macao%20(Linnaeus%2C%201758),cyanopterus%20Wiedenfeld%2C%201995%E2%80%93), practically the name of the macaw family. Macaws are large parrots measuring 46 to 51 cm in length and weighing 285 to 287 g in the case of the great macaw, and 90 to 95 cm and 1,708 g in the case of the green-winged macaw.
 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/32a1cc70-b7b6-43cc-9508-4e4f167e6466" alt="Texto descriptivo" width="300"/>
+</div>
+
+
+
 > [!NOTE]
 > More information [here](https://ebird.org/species/scamac1?siteLanguage=es_PA).
 <br>
+
+### Robot Versions
+
+| 1.0 | 1.1 | 2.12 | 2.13 | 2.14
+|:---|:---|:---|:---|:---|
+| It has 3 ultrasonics, No differential | It's the same configuration than 1.1 version, but de 3D designs had a big improvement. | Has only camera, no ultrasonics, has a differential integrated. | This one has 2 ultrasonics and the camera, we quit differential to keed developing it | this one has 3 ultrasonics and a great improvement in 3D designs. |
+
