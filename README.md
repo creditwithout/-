@@ -111,4 +111,12 @@ When we chose this name, it was because we are people who are using the possible
 | Anthony Bruce Gomez Arjona  | He is the nerdiest of the three, he is the scientist and physicist of the team, he is the developer of the logic and he is in charge of the programming, talk to him about jurasic park and you will have all his attention. | <img src="https://github.com/user-attachments/assets/8f248b35-607d-445a-bf8e-bd88bca2a894" alt="Texto descriptivo" width="150"/> | 17 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anthonyg.exe/)
 
 
+## Robot Name Explication😶‍🌫️
 
+![Add a subheading (16 x 5 cm) (4096 x 2160 px) (1)](https://github.com/user-attachments/assets/825ed7d8-fa21-48f2-8116-72e9b91f87fa)
+
+The name of all versions of our robot (ARA) comes from  [***Ara macao***](https://es.wikipedia.org/wiki/Ara_(animal)#:~:text=Ara%20macao%20(Linnaeus%2C%201758),cyanopterus%20Wiedenfeld%2C%201995%E2%80%93), practically the name of the macaw family. Macaws are large parrots measuring 46 to 51 cm in length and weighing 285 to 287 g in the case of the great macaw, and 90 to 95 cm and 1,708 g in the case of the green-winged macaw.
+
+> [!NOTE]
+> More information [here](https://ebird.org/species/scamac1?siteLanguage=es_PA).
+<br>
