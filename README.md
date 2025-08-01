@@ -105,10 +105,10 @@ When we chose this name, it was because we are people who are using the possible
 |:---|:---|:---|:---|:---|
 | Jonathan Michael Sosa Cruz  | He is the mechanical genius of the team, he repairs and builds anything and he is in charge of all the robot's circuitry, he only thinks about soccer and getting home to play the bass guitar. | <img src="https://github.com/user-attachments/assets/836f9e07-246b-46cd-b37e-ef4919c4a225" alt="Texto descriptivo" width="150"/> | 15 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jony.wrr3/)
 
-### Anthony
+### Anthony Gomez
 | Name | Description & Rol | GIF | Age | IG |
 |:---|:---|:---|:---|:---|
-| Jonathan Michael Sosa Cruz  | He is the mechanical genius of the team, he repairs and builds anything and he is in charge of all the robot's circuitry, he only thinks about soccer and getting home to play the bass guitar. | <img src="https://github.com/user-attachments/assets/836f9e07-246b-46cd-b37e-ef4919c4a225" alt="Texto descriptivo" width="150"/> | 15 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jony.wrr3/)
+| Anthony Bruce Gomez Arjona  | He is the nerdiest of the three, he is the scientist and physicist of the team, he is the developer of the logic and he is in charge of the programming, talk to him about jurasic park and you will have all his attention. | <img src="https://github.com/user-attachments/assets/8f248b35-607d-445a-bf8e-bd88bca2a894" alt="Texto descriptivo" width="150"/> | 17 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anthonyg.exe/)
 
 
 
