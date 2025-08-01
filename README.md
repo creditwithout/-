@@ -134,3 +134,7 @@ The name of all versions of our robot (ARA) comes from  [***Ara macao***](https:
 |:---|:---|:---|:---|:---|
 | It has 3 ultrasonics, No differential | It's the same configuration than 1.1 version, but de 3D designs had a big improvement. | Has only camera, no ultrasonics, has a differential integrated. | This one has 2 ultrasonics and the camera, we quit differential to keed developing it | this one has 3 ultrasonics and a great improvement in 3D designs. |
 
+
+## Chasis & 3D Designs
+
+### Platforms we use
