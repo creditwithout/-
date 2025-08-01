@@ -137,4 +137,12 @@ The name of all versions of our robot (ARA) comes from  [***Ara macao***](https:
 
 ## Chasis & 3D Designs
 
+![Copy of Add a subheading (16 x 5 cm) (4096 x 2160 px) (1)](https://github.com/user-attachments/assets/25e65803-b669-43f5-8432-e88e61ceb2de)
+
 ### Platforms we use
+
+| <img align="center" width="250" src="https://github.com/user-attachments/assets/0b077cdf-4ffa-4f3e-b979-41f18b5fc211" alt="ARTURO" />| <img align="center" width="250" src="https://github.com/user-attachments/assets/a76178d7-bc71-493e-8c93-877893848531" alt="ARTURO" /> |
+| :------------: |:-------------:| 
+|[ OnShape ](https://www.onshape.com/en/)|[ Autodesk FUSION 360 ]( https://www.autodesk.com/products/fusion-360/overview )
+
+
