@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Seteki+Team;Seteki+team+want_food;Looking+Up" alt="Animated header" />
 
 ![Add a subheading (16 x 5 cm) (1)](https://github.com/user-attachments/assets/76fb60b7-f7db-4c3f-b5d6-75c7abea3ad6)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/setekiteam/)
 [![YouTube](https://img.shields.io/badge/YouTube-%21E5395F.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@setekiteam)
 [![GitHub](https://img.shields.io/badge/GitHub-%23E4419F.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/seteki/Seteki-Team)
