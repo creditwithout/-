@@ -89,5 +89,10 @@ It is a small species of anuran amphibian of the Bufonidae family.
 
 When we chose this name, it was because we are people who are using the possible resources to develop these robots and technology, but sometimes we forget that all this comes from natural resources and we are taking advantage of all this and we do not take care of it, and as a small annex we wanted to give this message that we also have a responsibility to the world and in addition to this we also want to have our country represented in our team.
 
-## Team presentation 🥸
+> [!WARNING]
+> This species is in danger of extinction, more information [here](https://es.wikipedia.org/wiki/Especie_en_peligro_cr%C3%ADtico_de_extinci%C3%B3n).
+<br>
+
+## Team presentation 😒
+
 
