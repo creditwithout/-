@@ -128,22 +128,47 @@ The name of all versions of our robot (ARA) comes from  [***Ara macao***](https:
 > More information [here](https://ebird.org/species/scamac1?siteLanguage=es_PA).
 <br>
 
-### Robot Versions
+### Robot Versions🚘
 
 | 1.0 | 1.1 | 2.12 | 2.13 | 2.14
 |:---|:---|:---|:---|:---|
 | It has 3 ultrasonics, No differential | It's the same configuration than 1.1 version, but de 3D designs had a big improvement. | Has only camera, no ultrasonics, has a differential integrated. | This one has 2 ultrasonics and the camera, we quit differential to keed developing it | this one has 3 ultrasonics and a great improvement in 3D designs. |
 
 
-## Chasis & 3D Designs
+## Chasis & 3D Designs🚖
 
 ![Copy of Add a subheading (16 x 5 cm) (4096 x 2160 px) (1)](https://github.com/user-attachments/assets/25e65803-b669-43f5-8432-e88e61ceb2de)
 
-### Platforms we use
+### Platforms we use🛹
 
 | <img align="center" width="250" src="https://github.com/user-attachments/assets/0b077cdf-4ffa-4f3e-b979-41f18b5fc211" alt="ARTURO" />| <img align="center" width="250" src="https://github.com/user-attachments/assets/a76178d7-bc71-493e-8c93-877893848531" alt="ARTURO" /> |
 | :------------: |:-------------:| 
 |[ OnShape ](https://www.onshape.com/en/)|[ Autodesk FUSION 360 ]( https://www.autodesk.com/products/fusion-360/overview )
 
-## Mainc chassis
+## Main chassis🚄
+Our chassis is fully printed with CREALITY PETG-CR filament material, as we want our chassis to be resistant and not wear out so quickly when implementing gear mechanisms.
+> [!NOTE]
+> Click [here](https://ebird.org/species/scamac1?siteLanguage=es_PA) To see the 3D Chasis part.
+<br>
+
+### All Sides
+
+| ABOVE | BELOW | FRONT | BACK |
+|:---|:---|:---|:---|
+|  <img align="center" width="450" src="https://github.com/user-attachments/assets/681f374c-e3e8-499e-9e2e-ae565a02f217" alt="A"/> |  <img align="center" width="450" src="https://github.com/user-attachments/assets/1abaa775-6ea3-4da7-8ddb-7d85bd9b1415" alt="ARTURO"/> | <img align="center" width="450" src="https://github.com/user-attachments/assets/d1165913-5ffd-4341-955f-7c15faa53d30" alt="ARTURO"/> | <img align="center" width="450" src="https://github.com/user-attachments/assets/37632682-d456-4077-a6ba-3d99ba375824" alt="ARTURO"/> |
+
+### GIF View 3D
+
+| Animation |
+|:---|
+|  <img align="center" width="420" src="https://github.com/user-attachments/assets/4af291ba-3836-4bd2-9650-af1cb0d5e7e4" alt="A"/> |
+
+
+### SCHEMATIC VIEW
+
+| Schematic |
+|:---|
+|  <img align="center" width="420" src="https://github.com/user-attachments/assets/5fbe1dc9-d390-4abd-a9f4-7ce9337a694c" alt="A"/> |
+
+
 
