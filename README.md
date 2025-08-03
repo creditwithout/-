@@ -110,6 +110,11 @@ When we chose this name, it was because we are people who are using the possible
 |:---|:---|:---|:---|:---|
 | Anthony Bruce Gomez Arjona  | He is the nerdiest of the three, he is the scientist and physicist of the team, he is the developer of the logic and he is in charge of the programming, talk to him about jurasic park and you will have all his attention. | <img src="https://github.com/user-attachments/assets/8f248b35-607d-445a-bf8e-bd88bca2a894" alt="Texto descriptivo" width="150"/> | 17 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anthonyg.exe/)
 
+### Edgar Ruiz
+| Name | Description & Rol | GIF | Age | IG |
+|:---|:---|:---|:---|:---|
+| Edgar Antonio Ruiz Caballero  | Active participant in robotics competitions such as RoboCup Jr , WRO, and others since 2015. - National Winner of RoboCup Jr 2017 and team coachrepresenting Panama in Nagoya, Japan. - Third Place National Winner in WRO 2018 as team coach for The Oxford School. - National Winner of RoboCup Jr 2018 and team coach representing Panama in Sydney, Australia in 2019. - Participant in 2021 STEAM training hosted by Grupo Editorial EDELVIVES in Madrid, Spain. - National Winner of WRO 2022 and team coach representing Panama in Dortmund, Germany. - National Winner of WRO 2024 (World Robot Olympiad) and team coach representing Panama in Izmir, Turkey. | <img src="https://github.com/user-attachments/assets/f805cd6a-0317-45e8-bec0-a24e342ec8df" alt="Texto descriptivo" width="150"/> | 26 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edgar.r05?igsh=bmtsc2p5NGpxc2Y2)
+
 
 ## Robot Name Explication😶‍🌫️
 
