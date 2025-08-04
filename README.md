@@ -175,5 +175,16 @@ Our chassis is fully printed with CREALITY PETG-CR filament material, as we want
 |:---|
 |  <img align="center" width="420" src="https://github.com/user-attachments/assets/5fbe1dc9-d390-4abd-a9f4-7ce9337a694c" alt="A"/> |
 
+## Steering
 
+### real view
 
+| physical |
+|:---|
+|  <img align="center" width="420" src="https://github.com/user-attachments/assets/2621ca6f-3fa0-4c0b-a34f-92368856993f" alt="A"/> |
+
+### 3D VIEW
+
+| 3D |
+|:---|
+|  <img align="center" width="420" src="https://github.com/user-attachments/assets/5fbe1dc9-d390-4abd-a9f4-7ce9337a694c" alt="A"/> |
