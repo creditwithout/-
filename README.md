@@ -187,4 +187,16 @@ Our chassis is fully printed with CREALITY PETG-CR filament material, as we want
 
 | 3D |
 |:---|
-|  <img align="center" width="420" src="https://github.com/user-attachments/assets/5fbe1dc9-d390-4abd-a9f4-7ce9337a694c" alt="A"/> |
+|  <img align="center" width="420" src="https://github.com/user-attachments/assets/eb1349a6-02d3-4c74-b6b5-9b7c4131567e" alt="A"/> |
+
+## Camara Carrier
+This is the support for the OPEN MV H7 Plus camera.
+
+### 3D VIEW
+
+| 3D |
+|:---|
+|  <img align="center" width="420" src="https://github.com/user-attachments/assets/79233950-bc51-4164-a1d9-100a83fdf0f5" alt="A"/> |
+
+
+
