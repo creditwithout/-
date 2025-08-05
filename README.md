@@ -18,16 +18,7 @@ This is the official repository of the Seteki® team that will represent Institu
 ├── 📁 3D-models             # Contains 3D design files for the robot's components
 │   ├── 📁 All 3D files      # All robot versions
 │   └── 📄 README.md         # 3D models explained
-├── 📁 Documentation         # All about our media
-│   ├── 📁 Regional[1]       # Regional 1 Git Hub Printable
-│   ├── 📁 Regional[2]       # Regional 2 Git Hub Printable
-│   └── 📄 README.md         # Explanation
-├── 📁 ARA Versions          # Robot ARA versions 
-│   ├── 📁 ARA 1.0           # 1.0
-│   ├── 📁 ARA 1.1           # 1.1
-│   ├── 📁 ARA 2.14          # 2.14
-│   └── 📄 README.md         # Explanation
-├── 📁 electrical-schemes    # Contains circuit files
+├── 📁 schemes    # Contains circuit files
 │   ├── 📁 Diagrams          # All the circuit diagrams
 │   └── 📄 README.md         # Explanation
 ├── 📁 robot-photos          # All the robot photos
@@ -46,16 +37,6 @@ This is the official repository of the Seteki® team that will represent Institu
 └── 📄 README.md             # Main documentation for the project
 ```
 
-
-* ` 3D-models` - includes all the 3d printed parts of the robot that will go to the regional competition, and also contain and explanation about every piece designed [Here](https://github.com/seteki/III-Wind/tree/main/3D-models).
-* `documentation` - Here you'll find all the GitHub Printables for every competition. [Here](https://github.com/seteki/III-Wind/tree/main/documentation).
-* `ARA Versions` - Here you'll see every version of our robot. [Here](https://github.com/seteki/III-Wind/tree/main/ARA%20Versions)
-* `electrical-schemes`- contains the circuit diagrams of all the electrical parts of the seteki robot (ARA 1.1). [Here](https://github.com/seteki/III-Wind/tree/main/electrical-schemes).
-* `robot-photos` - photos of every angle of our robot for you can see it. [Here](https://github.com/seteki/III-Wind/tree/main/robot-photos)
-* `src` - this folder contains every code that makes our robot work, it have explanation for every part of the codes. [Here](https://github.com/seteki/III-Wind/tree/main/src)
-* `team-photos` - photos of the seteki team, it has the normal photo and one funny photo. [Here](https://github.com/seteki/III-Wind/tree/main/team-photos)
-* `video` - the link to our youtube channel where you can see our robot in action completing both challenges. [Here](https://github.com/seteki/III-Wind/tree/main/video).
-* `README.md` - Here's all our journey in the development of our robot here we explain every part of the robot making. [Here](https://github.com/seteki/III-Wind/tree/main).
 
 > [!CAUTION]
 > Due to GitHub problems some charts and GIFs can load a little bit slow, so we beg you to be patient while reading to not miss anything, THANKS!
