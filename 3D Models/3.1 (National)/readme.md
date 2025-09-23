@@ -17,3 +17,10 @@ Here you can find each part shown in the GIF, from the assembly of the robot's c
 <br>
 
 ## Steering
+![Trabajo grupal de Los Sentidos Ilustativo Colorido (Mobile Video) (1)](https://github.com/user-attachments/assets/8a5bdfcb-1211-4c55-b6c5-cfe4f7ca26ee)
+
+> [!NOTE]
+> Upper are all the files that you can see in the Assembly GIF [3.1 (national)](https://github.com/creditwithout/-/tree/main/3D%20Models/3.1%20(National)).
+<br>
+
+We greatly improved the steering system for this national competition compared to previous regional competitions, since now that we do the first round in 30 seconds, we needed a greater angle of gro in case the ultrasonic sensor gave a delayed measurement, and thus avoid a collision. Therefore, we had to redesign the arms and servo fittings and the front arm amplitude so that the turning arc could have a much greater turning angle. This steering system no longer follows the guidelines of an Ackerman system.
