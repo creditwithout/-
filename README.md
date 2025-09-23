@@ -29,15 +29,36 @@ This is the official repository of the Seteki® team that will represent Institu
 │   ├── 📁 Fritzing          # Our Circuit in Fritzing
 │   ├── 📁 PCB               # Every Of the realization of our PCB
 │   └── 📄 README.md         # Explanation
-├── 📁 src                   # All the scripts of our robot
-│   ├── 📁 First round       # First round code
-│   ├── 📁 Second round      # Second round code
+├── 📁 media                 # All our social media
 │   └──📄 README.md          # Explanation
-├── 📁 team-photos           # Photos of seteki members.
-│   ├── 📁 Normal Photo      # Seteki formal photo
-│   ├── 📁 Funny Photo       # Seteki random photo xd
+├── 📁 Robotlogic & analysis # How our robot is working
+│   ├── 📁 Flowcharts        # Flowcharts with explanation
+│   ├── 📁 Graphics          # Seteki random photo xd
 │   └──📄 README.md          # Explanation
-├── 📁 video                 # Robot videos
+├── 📁 Robot Photos          # Robot videos
+│   ├── 📁 1.1               # 1.1 Photos and explanation
+│   ├── 📁 2.14              # 2.14 Photos and exlplanation
+│   ├── 📁 3.1 (National)    # 3.1 Photos and explanation
+│   └──📄 README.md          # 3.1 Photos
+├── 📁 src                   # Robot videos
+│   ├── 📁 First Challenge   # Codes of the first round
+│   ├── 📁 Second Challenge  # Codes of the second round
+│   └──📄 README.md          # Explanation
+├── 📁 team photos           # Our photos as participant
+│   ├── 📁 Funny photos      # All the funny photos
+│   ├── 📁 Photos with tutor # Our photos with our tutor
+│   ├── 📁 formal with tutor # Our photos with our tutor
+│   ├── 📁 members           # There´s a lot of individual photos
+│   └──📄 README.md          # Explanation
+├── 📁 video                 # All the robot videos
+│   ├── 📁 First Challenge   # All videos of first round
+│   ├── 📁 Other videos      # Other explicative videos
+│   ├── 📁 Second Challenge  # All videos of the second round
+│   └──📄 README.md          # Explanation
+├── 📁 GitHub Printables     # All PDF Githubs ready to print
+│   ├── 📁 1.1               # 1.1 pdf
+│   ├── 📁 2.14              # 2.14 pdf
+│   ├── 📁 3.1               # 3.1 pdf
 │   └──📄 README.md          # Explanation
 └── 📄 README.md             # Main documentation for the project
 ```
