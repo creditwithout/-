@@ -16,4 +16,4 @@ Here you can find each part shown in the GIF, from the assembly of the robot's c
 > Every 3D piece is in the [3.1 (national)](https://github.com/creditwithout/-/tree/main/3D%20Models/3.1%20(National)).
 <br>
 
-## Mount Tape
+## Steering
