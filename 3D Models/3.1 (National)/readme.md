@@ -44,3 +44,11 @@ One of the many innovations we had was to add a ```differential``` to our robot,
 - (left wheel) → blue line: speed of the left wheel.
 - (right wheel) → orange line: speed of the right wheel.
 - (driveshaft) → dotted line: speed of the input shaft.
+
+The graph shows how the differential distributes speeds so that the average always matches that of the input shaft, allowing each wheel to turn at the speed necessary for its trajectory.
+
+
+# 3D MODELS
+
+Seteki - 3.1 National Integrated README.md
+
