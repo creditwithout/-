@@ -17,13 +17,17 @@ This is the official repository of the Seteki® team that will represent Institu
 ```
 📦 WRO2025 Seteki
 ├── 📁 3D-models             # Contains 3D design files for the robot's components
-│   ├── 📁 All 3D files      # All robot versions
+│   ├── 📁 1.1               # 1.1 Models
+│   ├── 📁 2.14              # 2.14 Models
+│   ├── 📁 3.1 (National)    # 3.1 Models
 │   └── 📄 README.md         # 3D models explained
-├── 📁 schemes    # Contains circuit files
-│   ├── 📁 Diagrams          # All the circuit diagrams
-│   └── 📄 README.md         # Explanation
-├── 📁 robot-photos          # All the robot photos
-│   ├── 📁 Photos            # Every Photo
+├── 📁 Ara Versions          # Contains an explanation of every ARA Robot
+│   ├── 📄 ara.md            # A tiny graph of the models
+│   └── 📄 README.md         # Explanation of every model
+├── 📁 SCHEMES               # All of the circuit
+│   ├── 📁 Cirkit designer   # Interactive circuit
+│   ├── 📁 Fritzing          # Our Circuit in Fritzing
+│   ├── 📁 PCB               # Every Of the realization of our PCB
 │   └── 📄 README.md         # Explanation
 ├── 📁 src                   # All the scripts of our robot
 │   ├── 📁 First round       # First round code
