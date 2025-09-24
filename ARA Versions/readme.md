@@ -14,6 +14,7 @@
 For the national our robot is the ARA 3.0
 
 
+![Trabajo grupal de Los Sentidos Ilustativo Colorido (7)](https://github.com/user-attachments/assets/a7f41a9e-eb6f-4b7b-aeab-4dcf5554c02b)
 
 
 
