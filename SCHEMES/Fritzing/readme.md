@@ -11,3 +11,4 @@
 
 ## USAGE
 Our use of Fritzing was extremely important, as it provided us with a 2D schematic of our entire circuit, allowing us to fix problems much more easily. It also recently served as a very important guide in the manufacturing and subsequent printing of our PCB, as the PCB View option allowed us to make many modifications in order to design the PCB much better.
+![Copy of Add a subheading (16 x 5 cm) (4096 x 2160 px) (4)](https://github.com/user-attachments/assets/53377f12-4011-4327-aca5-adaab6207f1b)
