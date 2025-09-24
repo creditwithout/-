@@ -6,3 +6,8 @@ We also decided to use this platform because it allows other users to view the c
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b82160e5-9b86-4f25-8c36-7c88dc9039c0" />
 
+You can also visualize our circuit in SVG Format [here](https://app.cirkitdesigner.com/project/14ea10bb-b8b8-4b1f-92cd-de119d128b88)
+
+## And by cliking [here](https://app.cirkitdesigner.com/project/14ea10bb-b8b8-4b1f-92cd-de119d128b88) you can get an interactive experience with our circuit
+
+# Circuit EXPLANATION
