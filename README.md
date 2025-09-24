@@ -1,8 +1,7 @@
 # Seteki® Team🤖
+![Add a subheading (16 x 5 cm) (4096 x 2160 px)](https://github.com/user-attachments/assets/583fa6ea-c489-4a7a-a310-0978ec99f259)
 ## Beyond the future! 😎
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Seteki+Team;Seteki+team+want_food;Looking+Up" alt="Animated header" />
-
-![Add a subheading (16 x 5 cm) (4096 x 2160 px)](https://github.com/user-attachments/assets/583fa6ea-c489-4a7a-a310-0978ec99f259)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/setekiteam/)
