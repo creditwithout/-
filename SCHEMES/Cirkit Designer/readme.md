@@ -22,3 +22,6 @@ You can also visualize our circuit in SVG Format [here](https://app.cirkitdesign
 
 - The `SparkFun VR IMU` Breakout is a cutting-edge triple-axis accelerometer/gyro/magnetometer in a single package that you can connect via `I2C` and Qwiic.
   <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/c762b33d-0135-41db-96cb-42dd0297f37b" />
+
+# End Page
+Seteki 2025 - Schemes - Cirkit Designer
