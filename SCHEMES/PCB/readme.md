@@ -21,4 +21,9 @@ A Gerber file is a standard 2D file format that describes each layer of a Printe
 ## Full PCB Without ASSEMBLY  
 ![Trabajo grupal de Los Sentidos Ilustativo Colorido (Mobile Video) (6)](https://github.com/user-attachments/assets/621bc3c5-75e6-4d8a-ad62-683a8748dbfa)
 
+## Where we made it?
+We use [JLCBPCB](https://jlcpcb.com/?from=VGB_AS&utm_source=google&utm_medium=cpc&utm_campaign=22267388602&utm_content=733910807963&utm_term=b_jlcpcb&adgroupid=180499149252&utm_network=g_&gad_source=1&gad_campaignid=22267388602&gbraid=0AAAAACUKBgTezCYjHAHwIkOCBiFHwEnOD&gclid=Cj0KCQjwrc7GBhCfARIsAHGcW5W3s6rYfjFjUMn4gspmBCtYJ4BvrDc_q5Znv-EsyegrX8PHNn9tAbIaAnqFEALw_wcB)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5834eb9d-0d11-452d-9afc-b0e6730457a8" />
 
+# End Page
+Seteki 2025 - Schemes - PCB
