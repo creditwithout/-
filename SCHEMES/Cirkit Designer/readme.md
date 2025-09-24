@@ -19,3 +19,6 @@ You can also visualize our circuit in SVG Format [here](https://app.cirkitdesign
 - A BNO086 (IMU) accelerometer/gyroscope/magnetometre module connects via the I2C protocol (SDA, SCL).
 > [!IMPORTANT]
 > Regarding the gyroscope that is in the circuit on GitHub, we no longer use that one; we now use the `BNO086`. However, it is from the original `SparkFun chip`, so we did not have time to modify it in the circuits, but all the original photos will show it. Nevertheless, it has the same connections as the previous one and better functionality, but it is basically the same, only with better electronics. You can find out more about the gyroscope [Here](https://www.sparkfun.com/sparkfun-vr-imu-breakout-bno086-qwiic.html), other wise we'll explain briefly here😁.
+
+- The `SparkFun VR IMU` Breakout is a cutting-edge triple-axis accelerometer/gyro/magnetometer in a single package that you can connect via `I2C` and Qwiic.
+  <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/c762b33d-0135-41db-96cb-42dd0297f37b" />
