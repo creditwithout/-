@@ -5,11 +5,17 @@
 
 ### Robot Versions🚘
 
-| 1.0 | 1.1 | 2.12 | 2.13 | 2.14
-|:---|:---|:---|:---|:---|
-| It has 3 ultrasonics, No differential | It's the same configuration than 1.1 version, but de 3D designs had a big improvement. | Has only camera, no ultrasonics, has a differential integrated. | This one has 2 ultrasonics and the camera, we quit differential to keed developing it | this one has 3 ultrasonics and a great improvement in 3D designs. |
+| 1.0 | 1.1 | 2.12 | 2.13 | 2.14 | 3.1
+|:---|:---|:---|:---|:---|:---|
+| It has 3 ultrasonics, No differential | It's the same configuration than 1.1 version, but de 3D designs had a big improvement. | Has only camera, no ultrasonics, has a differential integrated. | This one has 2 ultrasonics and the camera, we quit differential to keed developing it | this one has 3 ultrasonics and a great improvement in 3D designs. | THIS ONE INTEGRATE A DIFFERENTIAL IN THE TRACTION AND HAS 3 ULTRASONICS, AND NOW COUNTS WITH A DESIGNED PCB AND MANUFACTERED IN HONG KONG, FOR MAKE OUR CIRCUIT A LOT BETTER. |
 
 ## NATIONAL
 
 For the national our robot is the ARA 3.0
 
+
+
+
+
+# end page - seteki
+Seteki 2025 - GitHub 3.1 - creditwhitout [Home main page](https://github.com/creditwithout/-/blob/main/README.md)
