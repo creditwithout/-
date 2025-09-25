@@ -15,6 +15,7 @@ Here you'll find our day to day, because this is a engineering process.
 [Clash royal seteki clan](https://link.clashroyale.com/invite/clan/es?tag=G8YULLJP&token=3jhdxkac&platform=iOS)
 
 Being in robotics is also a lot of getting mentally tire, so sometimes is okey to distract your mind with hobbies like music, sports, games and then get fresh to get back to work, that's why we have a seteki clash royal CLAN. jijijija!
+
 ![Copy of Add a subheading (16 x 5 cm) (4096 x 2160 px) (13)](https://github.com/user-attachments/assets/fa5e273e-b8b3-40f9-81e4-4c9dd02d4938)
 
 # End Page
