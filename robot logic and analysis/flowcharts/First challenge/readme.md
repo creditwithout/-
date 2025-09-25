@@ -5,6 +5,11 @@
 <img width="400" height="600" alt="Documento A4 diagrama de flujo con flechas creativo doodle colorido (4)" src="https://github.com/user-attachments/assets/8d5b8064-16a3-4a26-a8f0-fe534d25a86a" />
 
 
+<div align="center">
+  <img width="400" height="600" alt="Documento A4 diagrama de flujo con flechas creativo doodle colorido (4)" src="https://github.com/user-attachments/assets/8d5b8064-16a3-4a26-a8f0-fe534d25a86a" />
+</div>
+
+
 ## BNO086
 
 <img width="500" height="700" alt="BNO086 Flowchart" src="https://github.com/user-attachments/assets/a19538a9-7158-408c-a47f-694b4c5b92e6" />
