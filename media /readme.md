@@ -14,4 +14,4 @@ Here you'll find our day to day, because this is a engineering process.
 
 [Clash royal seteki clan](https://link.clashroyale.com/invite/clan/es?tag=G8YULLJP&token=3jhdxkac&platform=iOS)
 
-Being in robotics is also a lot of getting mentally tire, so sometimes is okey to distract your mind with hobbies like music, sports, games and then get fresh to get back to work, that's why we have a seteki clash royal CLAN. jijija!
+Being in robotics is also a lot of getting mentally tire, so sometimes is okey to distract your mind with hobbies like music, sports, games and then get fresh to get back to work, that's why we have a seteki clash royal CLAN. jijijija!
