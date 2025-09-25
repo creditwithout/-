@@ -37,3 +37,6 @@ You can see all our flowcharts at detail in mermaid, in real time by [clicking h
 - When in `NORMAL state`, the program enters its main loop. Inside the loop, it continuously checks whether the `BNO08X` has been reset. If a reset is detected, the system attempts a recalibration process. A failed recalibration results in termination, but a successful one restores the workflow. If no reset occurs, the program continues by reading sensor events. Each event is validated; invalid readings are discarded, and the loop resumes.
 
 - Valid sensor events lead to the computation of the yaw angle, which represents the orientation of the system. This yaw value is then fed into a `PID controller` to maintain stability and control over the system’s heading. Once the `PID control` is applied, the loop cycles back, ensuring continuous monitoring, `correction`, and error handling throughout the system’s operation.
+
+# End Page
+Seeteki 2025 - Robot analysis and logic - flowcharts - first round
