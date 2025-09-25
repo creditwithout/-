@@ -1,6 +1,8 @@
 ## First round simplified
 <img width="500" height="700" alt="Documento A4 diagrama de flujo con flechas creativo doodle colorido (1)" src="https://github.com/user-attachments/assets/fc1641a8-fb5f-47e8-9ad7-3a566bcbc08c" />
 <img width="1414" height="2000" alt="Documento A4 diagrama de flujo con flechas creativo doodle colorido (2)" src="https://github.com/user-attachments/assets/ffac0156-c2a8-4c57-ab14-c36262fa5657" />
+<img width="1414" height="2000" alt="Documento A4 diagrama de flujo con flechas creativo doodle colorido (3)" src="https://github.com/user-attachments/assets/935af60f-f459-4545-87a7-3e781417b259" />
+<img width="400" height="600" alt="Documento A4 diagrama de flujo con flechas creativo doodle colorido (4)" src="https://github.com/user-attachments/assets/8d5b8064-16a3-4a26-a8f0-fe534d25a86a" />
 
 
 ## BNO086
