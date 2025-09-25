@@ -1,3 +1,6 @@
+# MERMAID
+You can see all our flowcharts at detail in mermaid, in real time by [clicking here](https://www.mermaidchart.com/d/69ef36af-1adb-49cb-8dbc-4f43ecc426d1)😁
+
 ## First round simplified
 <div align="center">
   <img width="500" height="700" alt="Documento A4 diagrama de flujo con flechas creativo doodle colorido (1)" src="https://github.com/user-attachments/assets/fc1641a8-fb5f-47e8-9ad7-3a566bcbc08c" />
@@ -9,6 +12,20 @@
 </div>
 
 ### Explanation
+
+- Initialization: The robot starts, initializes all its hardware, and performs a crucial gyroscope calibration. If calibration fails, it stops. Otherwise, it waits for the start signal.
+- NORMAL State: This is the default state. The robot drives forward while scanning with its ultrasonic sensors.
+- Turn Detection: When a wall is detected ahead, it checks for a valid opening to the side. Critically, it will only commit to a turn if the opening's direction (left or right) matches the direction of the very first turn it ever made. This ensures it follows a consistent path (e.g., always taking left turns).
+- Maneuver Sequence: A successful turn decision triggers a sequence of states:
+  
+ `EN_MANIOBRA`: Executes the 90-degree turn.
+ `ESTABILIZANDO`: Drives straight for a moment to stabilize after the turn.
+ `CORRIGIENDO`: Fine-tunes its heading to ensure it's perfectly aligned with the new path.
+ 
+- Parking Logic: After completing the correction, it checks if it has made 12 or more turns. If not, it returns to the NORMAL state to find the next wall. If it has, it enters the PARKING state to perform its final alignment maneuver.
+- End: Once parking is complete, it enters the DETENIDO (Stopped) state and the run ends.
+
+<img width="961" height="3840" alt="Untitled diagram _ Mermaid Chart-2025-09-25-180711" src="https://github.com/user-attachments/assets/109994c1-eca9-429b-905c-fff3c7dad6d3" />
 
 
 ## BNO086
