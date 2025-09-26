@@ -40,7 +40,7 @@ Programming the sensor involves sending a trigger pulse and then precisely measu
 
 ### C++ (Arduino) Script:
 
-```
+```ino
 // Define Trig and Echo pin connections
 const int trigPin = 2;
 const int echoPin = 3;
@@ -82,7 +82,7 @@ void loop() {
 
 ### Python (MicroPython/CircuitPython) Script:
 
-```
+```py
 
 import machine
 import time
