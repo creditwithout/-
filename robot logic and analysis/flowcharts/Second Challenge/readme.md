@@ -49,7 +49,7 @@ If there is data: It proceeds to the next step.
 - Step 2.4: Message Complete: When it detects the "newline," it means a complete message has been received (e.g., "B,3,1"). Now, it proceeds to process it.
 Message Processing
 - Step 3.1: Identify Type: The robot looks at the first letter of the message to know what it means.
-- 
+  
 3- `If the letter is 'P' (Wall)`:
 This indicates the camera is answering a question about whether there is a wall.
 It extracts the number that follows (an 8 or a 9).
