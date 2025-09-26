@@ -1,7 +1,9 @@
 # HC SR04
+<img width="2000" height="1414" alt="Add a subheading (16 x 5 cm) (4096 x 2160 px) (A4 (Landscape))" src="https://github.com/user-attachments/assets/cf589c57-b04c-4b2c-af6d-eca1d5cad1f8" />
 
 
 --
+
 ## 1. General Overview:
 The `HC-SR04` is a widely-used, low-cost ultrasonic distance measuring sensor. It provides non-contact distance measurements from approximately `2cm to 400cm`. The module consists of an ultrasonic transmitter, a receiver, and a control circuit. It is a very popular component in the hobbyist and educational robotics communities due to its simplicity and effectiveness. By sending out a high-frequency sound pulse and measuring the time it takes for the echo to return, the sensor can calculate the distance to an object with reasonable accuracy.
 
