@@ -36,6 +36,10 @@ In every single iteration of the main loop, the first and most critical check is
 
 <img width="2015" height="3840" alt="Untitled diagram _ Mermaid Chart-2025-09-26-162527" src="https://github.com/user-attachments/assets/166b967c-dd9c-49e5-bf98-6678bb6414f6" />
 
+> [!NOTE]
+> If the picture is too tiny you can watch the flowchart [here](https://www.mermaidchart.com/d/6038e28d-2a63-41d3-9c09-707fd417ce79).
+<br>
+
 1- `Initialization`:
 At the start, the robot configures and activates the Serial1 port, which is the exclusive communication channel with the camera.
 
