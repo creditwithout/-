@@ -1,4 +1,4 @@
-# HC SR04
+# HC-SR04
 <img width="2000" height="1414" alt="Add a subheading (16 x 5 cm) (4096 x 2160 px) (A4 (Landscape))" src="https://github.com/user-attachments/assets/cf589c57-b04c-4b2c-af6d-eca1d5cad1f8" />
 
 
