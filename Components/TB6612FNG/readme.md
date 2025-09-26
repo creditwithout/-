@@ -127,5 +127,8 @@ The TB6612FNG has separate power inputs for logic and motors, which is ideal for
 - `Requires Soldering:` The base `IC` requires a breakout board or direct soldering to a PCB.
 - `Less Robust:` Can be more sensitive to electrical abuse (over-voltage, short circuits) than larger, more protected drivers.
 
+## How to buy it
+ [TB6612FNG Sparkfun](https://www.sparkfun.com/sparkfun-motor-driver-dual-tb6612fng-1a.html)
+
 # End Page
 Seteki 2025 - Components - TB6612FNG
