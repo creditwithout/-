@@ -101,4 +101,31 @@ ain1.value(0)
 ain2.value(0)
 pwma.duty_u16(0)
 ```
+## 5. Connection to Arduino NANO ESP32:
+The TB6612FNG has separate power inputs for logic and motors, which is ideal for the ESP32.
+- VCC (Logic Power): Connects directly to the `3.3V` pin of the Nano ESP32.
+- VM (Motor Power): Connects to your external motor power supply (e.g., a 4xAA battery pack, LiPo battery).
+- GND: All grounds (Nano ESP32, TB6612FNG, and external motor supply) must be connected together.
+- Control Pins `(AIN1, AIN2, PWMA, STBY, etc.)`: Connect directly to any digital GPIO pins on the Nano `ESP32`. No logic level shifting is required as the driver's VCC is compatible with the ESP32's `3.3V logic`.
+  
+## 6. Operating Voltage:
 
+- `Logic Voltage (VCC)`: 2.7V to 5.5V.
+- `Motor Voltage (VM)`: 2.5V to 13.5V.
+  
+## 7. Advantages and Disadvantages:
+
+### `Advantages:`
+
+- `High Efficiency`: `MOSFET` switches have very low RDS(on), minimizing power loss as heat and delivering more voltage to the motors compared to BJT drivers.
+- `Low Voltage Drop:` Preserves the voltage from the power supply, crucial for low-voltage applications.
+- `Compact Size:` The small surface-mount package is ideal for space-constrained projects.
+- `Power Saving:` Features a low-current standby mode to conserve battery life.
+  
+### `Disadvantages:`
+- `Limited Current:` Typically rated for around 1.2A continuous current per channel, making it unsuitable for large, high-power motors.
+- `Requires Soldering:` The base `IC` requires a breakout board or direct soldering to a PCB.
+- `Less Robust:` Can be more sensitive to electrical abuse (over-voltage, short circuits) than larger, more protected drivers.
+
+# End Page
+Seteki 2025 - Components - TB6612FNG
