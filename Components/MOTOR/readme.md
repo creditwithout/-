@@ -45,8 +45,9 @@ void loop() {
 //This is not the actual CODE SETEKI USES, IT'S JUST A REFERENCE
 ```
 
-```py
 ### `Python (MicroPython) Script`:
+
+```py
 from machine import Pin, PWM
 import time
 
