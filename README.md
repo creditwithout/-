@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repository isn't finished yet, wait until saturday. Any question contact us at setekiteam@gmail.com.
+<br>
+
+
 # Seteki® Team🤖
 ![Add a subheading (16 x 5 cm) (4096 x 2160 px)](https://github.com/user-attachments/assets/583fa6ea-c489-4a7a-a310-0978ec99f259)
 ## Beyond the future! 😎
