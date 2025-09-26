@@ -25,5 +25,20 @@ The red line shows the output of a standard 6-Axis Fusion, which combines only a
 # 3
 <img width="1000" height="600" alt="Generated Image September 26, 2025 - 8_08AM (1)" src="https://github.com/user-attachments/assets/e896548e-b0d2-492a-8add-6beeea507c53" />
 
+- The dashed red line represents the "Instantaneous Start." In this approach, the software commands the motor's PWM value to jump from zero to its target speed in a single, infinitesimal step. This demand for an instantaneous change in velocity is physically impossible for any mechanical system with inertia to achieve. The attempt to follow this command results in a sudden surge of current and maximum torque, causing abrupt, jerky movement. This not only puts significant stress on the motor and drivetrain components but also frequently leads to a loss of traction, causing the wheels to spin in place.
+  
+- In stark contrast, the solid blue line demonstrates the superior "Ramped Start" method. Here, the motor's speed command is not sent all at once. Instead, the PWM value is increased gradually and linearly over a defined period—in this case, 0.5 seconds—until it reaches the desired target speed.
+ 
+- This controlled and progressive application of power allows the robot's physical momentum to build up smoothly and naturally. It ensures that the torque delivered to the wheels is always manageable, thereby maximizing grip and preventing wheel spin. The result is a smooth, predictable, and efficient launch that protects the hardware from mechanical shock and provides far more reliable control over the robot's movements.
+
 # 4
 <img width="1200" height="700" alt="Generated Image September 24, 2025 - 9_00PM (1)" src="https://github.com/user-attachments/assets/b6644634-17e4-4852-b234-5fa3efcad33c" />
+
+- The dashed red line represents the target, or "setpoint," which is a heading of 0.0 degrees. The solid blue line shows the robot's actual heading over time. At the beginning of the simulation, the robot has a significant initial error, starting at a negative angle far from its goal.
+The PID controller's job is to eliminate this error. The initial, steep rise of the blue curve is primarily driven by the `Proportional (P)` term, which applies a strong corrective force that is directly proportional to the large initial error.
+
+- As the robot's heading gets closer to the target, the error decreases, and the corrective force lessens. The smooth, non-oscillating curve demonstrates the crucial role of the Derivative (D) term, which acts as a damper by anticipating the rate of change. It prevents the robot from overshooting the target and oscillating around it.
+Finally, the `Integral (I)` term works to eliminate any small, residual steady-state error, ensuring the robot doesn't just get close to the target but settles precisely on it.
+
+# End Page
+Seteki 2025 - robot analysis and logic - Graphics
