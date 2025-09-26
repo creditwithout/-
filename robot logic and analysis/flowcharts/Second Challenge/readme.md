@@ -19,6 +19,15 @@ If no priority events occur, the robot executes the logic corresponding to its c
 <img width="1573" height="3840" alt="Untitled diagram _ Mermaid Chart-2025-09-26-155035" src="https://github.com/user-attachments/assets/5d8519c0-bd11-44dc-bd63-16015506262a" />
 
 
+
 > [!NOTE]
 > If the picture is too tiny you can watch the flowchart, (it's different from the one above) [here](https://www.mermaidchart.com/d/9df89e61-509a-440d-925c-24cbaa2acc8d).
 <br>
+
+
+- The process starts in the `setup phase`, where the robot first attempts to establish communication with the `IMU`. A failure here is fatal and stops the robot from proceeding. If successful, it enters a mandatory calibration routine. During calibration, the robot collects multiple orientation samples over a short period to calculate a `yawOffset`.
+
+- This offset corrects for any initial sensor drift and establishes a reliable `"straight-ahead"` reference. This step is vital for accurate navigation, and the code includes timeouts and retry limits to ensure it completes successfully before the main loop begins.
+In every single iteration of the main loop, the first and most critical check is `myIMU.wasReset()`. An `IMU` might reset due to power fluctuations, which would invalidate all orientation data. If a reset is detected, the robot immediately stops all movement to prevent crashing. It then attempts an on-the-fly recalibration. If successful, it carefully resets its navigation variables and resumes the mission from a safe state (`NORMAL` or by restarting the current maneuver). This robust error-handling logic is crucial for autonomous reliability.
+
+- If no reset has occurred, the robot proceeds with normal operation. It polls the `IMU` for a new sensor event, specifically looking for the stable `"Game Rotation Vector."` From this, it reads quaternion data, which is then mathematically converted into a clear currentYaw angle representing the robot's heading. This final currentYaw value is the primary output of the gyroscope logic and is fed directly into the `PID control algorithm`. The [PID controller](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller) uses this value to calculate the necessary steering adjustments to keep the robot on its intended path, completing the sensor-to-action cycle before the loop repeats.
