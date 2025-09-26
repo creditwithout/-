@@ -69,3 +69,16 @@ It saves these numbers in variables so the robot can decide if it should initiat
 
 4- `Finalize and Repeat`:
 After processing the message, the robot clears the temporary memory and returns to Step 2.1 to wait for the next message from the camera
+
+## Cameraa code basen on the Open MV IDE:
+<img width="2494" height="3840" alt="Oopen Mv IDE _ Mermaid Chart-2025-09-26-165736" src="https://github.com/user-attachments/assets/be4a68a8-2d1a-4cfd-b393-4590d872b654" />
+
+
+- The default and most sophisticated mode is `NORMAL_STREAMING`. In this state, the camera continuously captures images and runs an advanced blob tracking algorithm. This isn't just simple detection; it tracks multiple colored objects from one frame to the next, predicting their movement and managing their identity even if they are temporarily obscured. It can also apply vision masks to ignore distractions in specific parts of the view. The core task here is to identify the most immediate, relevant obstacle, determine its position relative to the robot `(its section and roi)`, and stream this information constantly. This data is the lifeblood for the robot's real-time obstacle evasion logic.
+
+- The script can be commanded to enter a special, temporary `CHECK mode`. This is a powerful, on-demand analysis routine where the robot asks the camera to pause its normal streaming and perform a strategic assessment of the path ahead. This is typically done before a major maneuver. The camera dedicates a few seconds to this `analysis`, `calculating` confidence scores for what it sees. It determines the maximum number of obstacles the robot should plan to evade in the upcoming section and also checks for the presence of a specific color that signifies lane markings. After completing its analysis, it sends a concise summary report back to the robot and then automatically returns to the `NORMAL_STREAMING` mode.
+  
+- Finally, the script includes a quick, single-frame verification mode called `CONFIRM_WALL`. This state acts as a critical safety check. When the robot's sensors suggest it is facing a wall and should prepare to turn, it sends a command to the camera asking for visual confirmation. The camera takes a single snapshot and looks directly in its central field of view for any close-range obstacles. If it sees a colored `blob`, it reports back that the path is blocked by an obstacle, preventing a potential collision. If the central area is clear, it confirms that it is likely a wall, giving the robot the green light to proceed with its turn.
+
+# End Page
+Seteki 2025 robot logic and analysis - flowcharts - Second Challenge
