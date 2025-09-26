@@ -160,6 +160,9 @@ Immune to Color/Light: Not affected by the color of the target object or ambient
   
 - `Environmental Factors:` Its accuracy can be slightly affected by changes in air temperature and humidity, which alter the speed of sound.
 
+## How to buy it
+[Sparkfun HC-SRO4](https://www.sparkfun.com/ultrasonic-distance-sensor-hc-sr04.html)
+
 # End Page
 Seteki 2025 - Components - HC-SR04
 
