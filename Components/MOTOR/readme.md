@@ -96,3 +96,9 @@ pwm.duty_u16(32768) # 50% of 65535
 - Increased Complexity: Requires a motor driver, more GPIO pins, and interrupt-based programming.
 - Electrical Noise: Motor brush noise can potentially interfere with sensitive encoder signals, requiring careful wiring and possible filtering.
 - Higher Cost: Significantly more expensive than a simple DC gearmotor.
+
+## How to buy it
+[here](https://www.pololu.com/product/4862)
+
+# End Page
+Seteki 2025 - Components - Motor
