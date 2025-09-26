@@ -16,6 +16,12 @@ This process effectively corrects the gyroscope's drift by continuously "pulling
 # 2
 ![WhatsApp Image 2025-09-26 at 8 27 46 AM](https://github.com/user-attachments/assets/306d4c11-6e32-47e0-ab34-9debfb363ac7)
 
+- The dashed black line represents the Real Yaw, the true, error-free orientation that both systems are attempting to replicate.
+The red line shows the output of a standard 6-Axis Fusion, which combines only a gyroscope and an accelerometer. While this method is effective for calculating pitch and roll, it lacks an absolute reference for the yaw direction. Consequently, it is completely vulnerable to the gyroscope's inherent drift. As the graph clearly illustrates, this accumulated error causes the red line to continuously and progressively deviate from the real yaw, ending with a significant error of over 30 degrees.
+
+- In stark contrast, the blue line represents the output of an advanced 9-Axis Fusion, such as that performed by a `BNO086 sensor`. This system adds a crucial third sensor: a magnetometer, which acts like a compass by providing an absolute reference to the Earth's magnetic field. This allows the fusion algorithm to constantly correct the gyroscope's drift, resulting in an exceptionally accurate yaw calculation that almost perfectly overlays the real yaw line.
+
+
 # 3
 <img width="1000" height="600" alt="Generated Image September 26, 2025 - 8_08AM (1)" src="https://github.com/user-attachments/assets/e896548e-b0d2-492a-8add-6beeea507c53" />
 
