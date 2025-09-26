@@ -62,5 +62,6 @@ If the letter is 'B' (Blob / Obstacle):
 This means the camera has detected an obstacle.
 It extracts the two numbers that follow (the section and the roi).
 It saves these numbers in variables so the robot can decide if it should initiate an evasion maneuver.
+
 4- `Finalize and Repeat`:
 After processing the message, the robot clears the temporary memory and returns to Step 2.1 to wait for the next message from the camera
