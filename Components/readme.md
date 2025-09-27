@@ -1,4 +1,10 @@
 # Components Overview
+
+> [!WARNING]
+> You can see a more extenden explanation of every component in the folders, anyway in the component list you can find the link to go to a extended explanation of every component, thanks
+<br>
+
+
 ![Add a subheading (16 x 5 cm) (4096 x 2160 px) (7)](https://github.com/user-attachments/assets/187f36d4-68ce-4ffa-b354-d066cf4a06c2)
 
 This folder will be based on providing specific information about each component we use, as this is important for maintaining a faithful engineering process. To explain each component, each one will have its own folder with its own readme.md file, and each one will include the following points:
@@ -55,6 +61,11 @@ This folder will be based on providing specific information about each component
   - [Buy Here](https://ampedairsoft.com/high-power-airsoft-hpa-lipo-battery-tamiya/)
 - `Ceramic Capacitors` [2] [Ceramic Capacitors](https://ampedairsoft.com/high-power-airsoft-hpa-lipo-battery-deans/?srsltid=AfmBOopO9qeoV56RR8JgdX3IUPpEP28VoUCsk4092drezXA60EzKM6kk)
   - [Buy Here](https://ampedairsoft.com/high-power-airsoft-hpa-lipo-battery-tamiya/)
+
+> [!WARNING]
+> You can see a more extenden explanation of every component in the folders, anyway in the component list you can find the link to go to a extended explanation of every component, thanks
+<br>
+
 
 # End Page
 Seteki 2025 - Components
