@@ -56,3 +56,6 @@ This folder will be based on providing specific information about each component
 - `Ceramic Capacitors` [2] [Ceramic Capacitors](https://ampedairsoft.com/high-power-airsoft-hpa-lipo-battery-deans/?srsltid=AfmBOopO9qeoV56RR8JgdX3IUPpEP28VoUCsk4092drezXA60EzKM6kk)
   - [Buy Here](https://ampedairsoft.com/high-power-airsoft-hpa-lipo-battery-tamiya/)
 
+# End Page
+Seteki 2025 - Components
+
