@@ -78,7 +78,7 @@ This is the official repository of the Seteki® team that will represent Institu
 </div>
 
 
-We are Team Seteki, proudly representing Instituto Episcopal San José in Panama’s World Robot Olympiad (WRO) Future Engineers 2025 category. Our mission is to blend technology and innovation, knowing that innovation can go hand-in-hand with responsibility.
+We are Team Seteki, proudly representing Instituto Episcopal San José in Panama’s World Robot Olympiad (WRO) Future Engineers 2025 category. Our mission is to blend technology and innovation, knowing that innovation can go hand-in-hand with responsability.
 
 ### Our Philosophy 😎
 We are a team in which there are no hierarchies in the team, we each develop our parts and we are all involved and we `KNOW` every part of the realization of this whole project that would be our robor [ARA](https://github.com/seteki/III-Wind/tree/main/ARA%20Versions), we have values of humility and perseverance as a team, both when we work as a team as well as when we go to compete, we are a team in which two already have experience in what is robotics and specifically the WRO competition and we have a rookie in this world of what robotics is.
