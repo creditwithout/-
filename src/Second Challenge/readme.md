@@ -205,6 +205,174 @@ The `anti-collision` system implements multi-layered safety mechanisms using ult
 
 - All safety calculations use `atomic operations` and interrupt-safe data access to ensure real-time responsiveness and prevent data corruption during critical safety decisions.
 
+## Block Avoidance System
+
+### `Avoidance Parameters Configuration`
+```ino
+// Obstacle avoidance maneuver parameters
+const float ANGULO_ESQUIVE = 40.0;            // Initial turn angle in degrees for standard avoidance
+const float ANGULO_ESQUIVE_FUERTE = 45.0;     // Stronger turn angle in degrees for pronounced avoidance
+const float TOLERANCIA_ANGULO_ESQUIVE = 3.0;  // Angular tolerance for completing avoidance turns
+const float UMBRAL_PASILLO_LIBRE_CM = 35.0;   // Front distance threshold indicating clear passage
+const int VEL_ESQUIVE_MIN = 120;              // Minimum speed during obstacle avoidance (PWM value)
+const int VEL_ESQUIVE_MAX = 180;              // Maximum speed during obstacle avoidance (PWM value)
+```
+
+### `Blob Detection and Confirmation`
+```ino
+// Blob detection confirmation system
+if (estadoActual != ESQUIVAR_BLOQUE && estadoActual != DETENIDO) {
+    if (seccionBlob != 0) {
+        blobDetectionCounter++;  // Increment confirmation counter
+    } else {
+        blobDetectionCounter = 0;  // Reset counter when no blob detected
+    }
+
+    if (blobDetectionCounter >= BLOB_CONFIRMATION_CYCLES) {  // 10 consecutive frames
+        // Color and section gating logic
+        bool esRojo = (seccionBlob >= 1 && seccionBlob <= 6);
+        ColorBloque colorDetectado = esRojo ? COLOR_ROJO : COLOR_VERDE;
+        bool permitirEsquive = true;
+        
+        // Block avoidance in curve sections
+        if (bloquearEsquiveEnSeccion && enSeccionDeCurva) {
+            permitirEsquive = false;
+        }
+        
+        // Prevent re-avoidance of same color
+        if (permitirEsquive && ultimoColorEsquivado != COLOR_NINGUNO && ultimoColorEsquivado == colorDetectado) {
+            permitirEsquive = false;
+        }
+        
+        if (permitirEsquive) {
+            Serial.print("ESQUIVAR: Bloque confirmado. S: "); Serial.println(seccionBlob);
+            estadoActual = ESQUIVAR_BLOQUE;  // Start avoidance maneuver
+        } else {
+            Serial.println("ESQUIVAR: Bloque ignorado por regla de color o seccion.");
+        }
+        blobDetectionCounter = 0;  // Reset for next detection
+    }
+}
+```
+### `Adaptative speed control`
+
+```ino
+// Adaptive speed based on front distance (soft anti-collision)
+int velAdapt = VEL_ESQUIVE_MIN;  // Start with minimum speed
+if (distanciaCentroFiltrada < 999.0f) {
+    float d = distanciaCentroFiltrada;
+    if (d < 15.0f) d = 15.0f;      // Clamp minimum distance
+    if (d > 60.0f) d = 60.0f;      // Clamp maximum distance
+    float t = (d - 15.0f) / (60.0f - 15.0f);  // Normalize distance (0-1)
+    velAdapt = (int)(VEL_ESQUIVE_MIN + t * (VEL_ESQUIVE_MAX - VEL_ESQUIVE_MIN));  // Linear interpolation
+}
+moverAdelante(velAdapt);  // Apply adaptive speed
+```
+
+### `Avoidance Maneuver Planning`
+```ino
+if (subEstadoEsquivar == ES_NINGUNO) { // First time entering
+    Serial.println(">>> ESQUIVAR: Evaluating maneuver...");
+    yawInicialManiobra = currentYaw;  // Store initial yaw angle
+
+    bool esRojo = (seccionBlob >= 1 && seccionBlob <= 6);
+    colorEsquiveActual = esRojo ? COLOR_ROJO : COLOR_VERDE;
+    bool necesitaEsquivar = true;
+    
+    // Default values for normal avoidance
+    anguloEsquiveActual = ANGULO_ESQUIVE;
+
+    if (esRojo) {
+        direccionEsquive = IZQUIERDA; // Red -> Avoid to the Left
+        Serial.print(">>> ESQUIVAR: RED block detected. ");
+        if (roiBlob == 0) { // Left
+            Serial.println("ROI 0 (Left), no avoidance needed.");
+            necesitaEsquivar = false;
+        } else if (roiBlob == 1) { // Center
+            Serial.println("ROI 1 (Center), normal avoidance to LEFT.");
+        } else { // roiBlob == 2 or fallback
+            Serial.println("ROI 2 (Right), STRONG avoidance to LEFT.");
+            anguloEsquiveActual = ANGULO_ESQUIVE_FUERTE;
+        }
+    } else { // Green
+        direccionEsquive = DERECHA; // Green -> Avoid to the Right
+        Serial.print(">>> ESQUIVAR: GREEN block detected. ");
+        if (roiBlob == 2) { // Right
+            Serial.println("ROI 2 (Right), no avoidance needed.");
+            necesitaEsquivar = false;
+        } else if (roiBlob == 1) { // Center
+            Serial.println("ROI 1 (Center), normal avoidance to RIGHT.");
+        } else { // roiBlob == 0 or fallback
+            Serial.println("ROI 0 (Left), STRONG avoidance to RIGHT.");
+            anguloEsquiveActual = ANGULO_ESQUIVE_FUERTE;
+        }
+    }
+
+    if (necesitaEsquivar) {
+        Serial.print(">>> Starting avoidance. Angle: "); Serial.println(anguloEsquiveActual);
+        
+        if (direccionEsquive == DERECHA) {
+            setpointEsquive = yawInicialManiobra - anguloEsquiveActual;  // Turn right
+        } else { // IZQUIERDA
+            setpointEsquive = yawInicialManiobra + anguloEsquiveActual;  // Turn left
+        }
+        subEstadoEsquivar = ES_GIRO_INICIAL;  // Start with initial turn
+    } else {
+        Serial.println(">>> Avoidance maneuver not needed. Returning to NORMAL.");
+        seccionBlob = 0; roiBlob = -1;  // Clear data to prevent re-activation
+        estadoActual = NORMAL;
+        subEstadoEsquivar = ES_NINGUNO;
+    }
+}
+```
+
+### `Three-Phase Avoidance Maneuver`
+```ino
+// Phase 1: Initial Turn
+case ES_GIRO_INICIAL: {
+    float error_esquive = calcularErrorAngular(setpointEsquive, currentYaw);
+    if (fabs(error_esquive) < TOLERANCIA_ANGULO_ESQUIVE) {
+        Serial.println(">>> ESQUIVAR: Initial turn complete. Advancing parallel.");
+        subEstadoEsquivar = ES_AVANCE_PARALELO;  // Move to parallel advance
+    }
+    break;
+}
+
+// Phase 2: Parallel Advance
+case ES_AVANCE_PARALELO: {
+    bool pasilloLibre = (distanciaCentroFiltrada >= UMBRAL_PASILLO_LIBRE_CM);
+    bool sinBlob = (seccionBlob == 0);
+    if (pasilloLibre || sinBlob) {
+        Serial.println(">>> ESQUIVAR: Clear passage detected. Returning to lane.");
+        setpointEsquive = yawInicialManiobra;  // Point back to original angle
+        subEstadoEsquivar = ES_GIRO_REGRESO;   // Move to return turn
+    }
+    break;
+}
+
+// Phase 3: Return Turn
+case ES_GIRO_REGRESO: {
+    float error_regreso = calcularErrorAngular(yawInicialManiobra, currentYaw);
+    bool anguloAlcanzado = fabs(error_regreso) < TOLERANCIA_ANGULO_ESQUIVE;
+
+    if (anguloAlcanzado) {
+        Serial.println(">>> ESQUIVAR: Maneuver completed. Returning to NORMAL state.");
+        setpoint = yawInicialManiobra;  // Restore original setpoint
+        targetSetpoint = setpoint;
+        integral = 0.0f;  // Reset PID
+        seccionBlob = 0; roiBlob = -1;  // Clear blob data
+        ultimoColorEsquivado = colorEsquiveActual;  // Remember avoided color
+        colorEsquiveActual = COLOR_NINGUNO;
+        estadoActual = NORMAL;
+        subEstadoEsquivar = ES_NINGUNO;  // Reset sub-state
+    }
+    break;
+}
+```
+
+- `The block avoidance` system implements intelligent obstacle detection and evasion using camera vision data combined with ultrasonic sensor feedback. The system operates through a three-phase maneuver: initial turn, parallel advance, and return turn, with color-coded obstacle recognition determining avoidance direction. Red blocks trigger left avoidance while green blocks trigger right avoidance, with ROI (Region of Interest) analysis determining avoidance intensity. The system employs adaptive speed control that scales velocity based on front obstacle distance, preventing collisions during avoidance maneuvers. 
+
+- `Blob detection` requires 10 consecutive frame confirmations to prevent false triggers from camera noise or temporary obstructions. `Color-based` gating prevents re-avoidance of the same obstacle type, while section-based gating blocks avoidance during curve navigation phases. The avoidance state machine uses yaw angle control for precise steering, with separate tolerances for turn completion and parallel advance detection. Safety abort conditions monitor lateral and frontal distances, immediately canceling avoidance if safety `thresholds` are breached. The system integrates with the main navigation state machine, seamlessly returning to normal operation after successful obstacle clearance while maintaining navigation continuity and preventing repeated avoidance of the same obstacle.
 # End Page
 Seteki 2025
 
