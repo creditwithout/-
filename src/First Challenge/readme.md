@@ -44,7 +44,60 @@ enum EstadoRobot { NORMAL, EN_MANIOBRA, ESTABILIZANDO, CORRIGIENDO, PARKING, DET
 EstadoRobot estadoActual = NORMAL;  // Current robot state
 ```
 
+### `NORMAL State Example`
 
+```ino
 
+case NORMAL: {
+     moverAdelante(velocidadNormal);  // Set normal navigation speed
+     
+     // Wall detection logic
+     if (paredCercana) {  // Wall detected ahead
+          if (direccionPrimerGiro == direccionDetectadaActual) {
+               targetSetpoint = setpoint + (direccionPrimerGiro == IZQUIERDA ? -90.0f : 90.0f);  // Calculate turn target
+               contadorCurvas++;                    // Increment turn counter
+               estadoActual = EN_MANIOBRA;          // Change to maneuver state
+          }
+     }
+     break;
+}
+
+```
+
+### `EN_MANIOBRA State Example`
+
+```ino
+
+case EN_MANIOBRA: {
+     moverAdelante(velocidadGiro);  // Set turning speed
+     bool anguloAlcanzado = (fabs(error) < TURN_ANGLE_TOLERANCE);  // Check if turn angle reached
+     bool tiempoManiobraTimeout = (tiempoTranscurrido >= TIMEOUT_MANIOBRA);  // Check timeout
+     if (anguloAlcanzado || tiempoManiobraTimeout) {
+          estabilizacionInicio = millis();  // Start stabilization timer
+          estadoActual = ESTABILIZANDO;     // Change to stabilization state
+     }
+     break;
+}
+
+```
+
+### `ESTABILIZANDO State Example`
+```ino
+
+case ESTABILIZANDO: {
+     moverAdelante(velocidadEstabilizacion);  // Set stabilization speed
+     bool tiempoEstabilizacionCumplido = (millis() - estabilizacionInicio >= tiempoEstabilizacion);  // Check stabilization time
+     if (tiempoEstabilizacionCumplido) {
+          correccionInicio = millis();          // Start correction timer
+          estadoActual = CORRIGIENDO;          // Change to correction state
+     }
+     break;
+}
+
+```
+
+- This finite state machine implements a sophisticated autonomous navigation system with six distinct operational states. The `NORMAL` state handles forward navigation with ultrasonic sensor monitoring to detect walls and openings, transitioning to `EN_MANIOBRA` when a turn is required. The `EN_MANIOBRA` state executes the actual turning maneuver using `PID control`, monitoring both angle completion and timeout conditions to ensure reliable operation. The ESTABILIZANDO state provides a brief stabilization period after each turn, allowing the robot to settle before proceeding to the `CORRIGIENDO` state for fine-tuning. The `CORRIGIENDO` state implements speed ramping and yaw stability checking, eventually transitioning to `PARKING` after completing the required number of turns.
+
+- The `PARKING` state manages the final positioning sequence with lateral and frontal alignment algorithms. Each state transition is controlled by specific conditions such as sensor readings, timing constraints, and completion criteria, ensuring robust and predictable robot behavior throughout the navigation cycle.
 
 
