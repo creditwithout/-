@@ -205,6 +205,7 @@ The `anti-collision` system implements multi-layered safety mechanisms using ult
 
 - All safety calculations use `atomic operations` and interrupt-safe data access to ensure real-time responsiveness and prevent data corruption during critical safety decisions.
 
-
+# End Page
+Seteki 2025
 
 
