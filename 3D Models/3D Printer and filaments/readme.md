@@ -36,11 +36,18 @@ We use the bambu original TEXTURIZED PLATE.
 ![Add a subheading (16 x 5 cm) (4096 x 2160 px) (A4 (Landscape)) (13)](https://github.com/user-attachments/assets/19bb12e9-9ba4-4af6-93a9-245b0375daa8)
 
 
-## 3D Chassis Timelaps
+## 3D  Timelapse
 
 Here you can see some timelaps of the chassis, and other [ARA 3.1](https://github.com/creditwithout/-/tree/main/ARA%20Versions/3.1%20(National)) Parts.
 
 ### `Chassis Timelap`
+
+
+https://github.com/user-attachments/assets/91b9c366-47d9-474a-a8fe-95e8d2b8927c
+
+
+
+
 
 
 
