@@ -4,19 +4,24 @@
 
 We count with several ways to share our project with the world!
 
-[Youtube](https://www.youtube.com/@setekiteam)
+ - [Youtube](https://www.youtube.com/@setekiteam)
 
 Here you'll find not just the videos of the robot making the rounds, you'll also find other type of videos where we are explaining the project.
 
-[Instagram](https://www.instagram.com/setekiteam/)
+ - [Instagram](https://www.instagram.com/setekiteam/)
 
 Here you'll find our day to day, because this is a engineering process.
 
-[Clash royal seteki clan](https://link.clashroyale.com/invite/clan/es?tag=G8YULLJP&token=3jhdxkac&platform=iOS)
+ - [Clash royal seteki clan](https://link.clashroyale.com/invite/clan/es?tag=G8YULLJP&token=3jhdxkac&platform=iOS)
 
 Being in robotics is also a lot of getting mentally tire, so sometimes is okey to distract your mind with hobbies like music, sports, games and then get fresh to get back to work, that's why we have a seteki clash royal CLAN. jijijija!
 
-![Copy of Add a subheading (16 x 5 cm) (4096 x 2160 px) (13)](https://github.com/user-attachments/assets/fa5e273e-b8b3-40f9-81e4-4c9dd02d4938)
+
+ - [Seteki web page](https://seteki.vercel.app/)
+
+
+![Copy of Add a subheading (16 x 5 cm) (4096 x 2160 px) (14)](https://github.com/user-attachments/assets/3e067052-3176-4673-8837-22ed88df742b)
+
 
 # End Page
 Seteki 2025 - MEDIA
