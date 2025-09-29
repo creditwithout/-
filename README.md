@@ -128,24 +128,25 @@ When we chose this name, it was because we are people who are using the possible
 ## Team presentation 😒
 
 ### Jean Sosa
-| Name | Description & Rol | GIF | Age | IG |More |
+| Name | Description & Rol | GIF | Age | IG | More |
 |:---|:---|:---|:---|:---|:---|
 | Jean Paul Sosa Cruz  | Robot logic developer, 3D designer and 3D printing, Robot documentation as well as team workflow. for him all is music, and playing instruments, and has a good trayectory in robotics. | <img src="https://github.com/user-attachments/assets/1c16c5db-2f2a-4098-ac7d-9cfb4c9c3b36" alt="Texto descriptivo" width="150"/> | 18 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jean_zo3/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Jean%20Paul)
 
 ### Jonathan Sosa
-| Name | Description & Rol | GIF | Age | IG |
-|:---|:---|:---|:---|:---|
-| Jonathan Michael Sosa Cruz  | He is the mechanical genius of the team, he repairs and builds anything and he is in charge of all the robot's circuitry, he only thinks about soccer and getting home to play the bass guitar. | <img src="https://github.com/user-attachments/assets/836f9e07-246b-46cd-b37e-ef4919c4a225" alt="Texto descriptivo" width="150"/> | 15 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jony.wrr3/)
+| Name | Description & Rol | GIF | Age | IG | More |
+|:---|:---|:---|:---|:---|:---|
+| Jonathan Michael Sosa Cruz  | He is the mechanical genius of the team, he repairs and builds anything and he is in charge of all the robot's circuitry, he only thinks about soccer and getting home to play the bass guitar. | <img src="https://github.com/user-attachments/assets/836f9e07-246b-46cd-b37e-ef4919c4a225" alt="Texto descriptivo" width="150"/> | 15 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jony.wrr3/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Jonathan%20Michael)
+
 
 ### Anthony Gomez
-| Name | Description & Rol | GIF | Age | IG |
-|:---|:---|:---|:---|:---|
-| Anthony Bruce Gomez Arjona  | He is the nerdiest of the three, he is the scientist and physicist of the team, he is the developer of the logic and he is in charge of the programming, talk to him about jurasic park and you will have all his attention. | <img src="https://github.com/user-attachments/assets/8f248b35-607d-445a-bf8e-bd88bca2a894" alt="Texto descriptivo" width="150"/> | 17 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anthonyg.exe/)
+| Name | Description & Rol | GIF | Age | IG | More |
+|:---|:---|:---|:---|:---|:---|
+| Anthony Bruce Gomez Arjona  | He is the nerdiest of the three, he is the scientist and physicist of the team, he is the developer of the logic and he is in charge of the programming, talk to him about jurasic park and you will have all his attention. | <img src="https://github.com/user-attachments/assets/8f248b35-607d-445a-bf8e-bd88bca2a894" alt="Texto descriptivo" width="150"/> | 17 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anthonyg.exe/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Anthony%20Bruce)
 
 ### Edgar Ruiz
-| Name | Description & Rol | GIF | Age | IG |
-|:---|:---|:---|:---|:---|
-| Edgar Antonio Ruiz Caballero  | Active participant in robotics competitions such as RoboCup Jr , WRO, and others since 2015. - National Winner of RoboCup Jr 2017 and team coachrepresenting Panama in Nagoya, Japan. - Third Place National Winner in WRO 2018 as team coach for The Oxford School. - National Winner of RoboCup Jr 2018 and team coach representing Panama in Sydney, Australia in 2019. - Participant in 2021 STEAM training hosted by Grupo Editorial EDELVIVES in Madrid, Spain. - National Winner of WRO 2022 and team coach representing Panama in Dortmund, Germany. - National Winner of WRO 2024 (World Robot Olympiad) and team coach representing Panama in Izmir, Turkey. | <img src="https://github.com/user-attachments/assets/fcd9ee06-a977-4ed0-a74c-39fd86166889" alt="Texto descriptivo" width="150"/> | 26 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edgar.r05?igsh=bmtsc2p5NGpxc2Y2)
+| Name | Description & Rol | GIF | Age | IG | More |
+|:---|:---|:---|:---|:---|:---|
+| Edgar Antonio Ruiz Caballero  | Active participant in robotics competitions such as RoboCup Jr , WRO, and others since 2015. - National Winner of RoboCup Jr 2017 and team coachrepresenting Panama in Nagoya, Japan. - Third Place National Winner in WRO 2018 as team coach for The Oxford School. - National Winner of RoboCup Jr 2018 and team coach representing Panama in Sydney, Australia in 2019. - Participant in 2021 STEAM training hosted by Grupo Editorial EDELVIVES in Madrid, Spain. - National Winner of WRO 2022 and team coach representing Panama in Dortmund, Germany. - National Winner of WRO 2024 (World Robot Olympiad) and team coach representing Panama in Izmir, Turkey. | <img src="https://github.com/user-attachments/assets/fcd9ee06-a977-4ed0-a74c-39fd86166889" alt="Texto descriptivo" width="150"/> | 26 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edgar.r05?igsh=bmtsc2p5NGpxc2Y2) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/Photos%20with%20tutor)
 
 
 ## Robot Name Explication😶‍🌫️
