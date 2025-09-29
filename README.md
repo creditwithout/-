@@ -94,7 +94,7 @@ This is the official repository of the Seteki® team that will represent Institu
 > [!CAUTION]
 > Due to GitHub problems some charts and GIFs can load a little bit slow, so we beg you to be patient while reading to not miss anything, THANKS!
 
-##  Part 1 / About Us🗣️
+## About Us🗣️
 
 <div align="center">
   <img width="2000" height="1440" alt="Trabajo grupal de Los Sentidos Ilustativo Colorido (40 x 25 cm)" src="https://github.com/user-attachments/assets/a1836500-4e29-48bd-bc88-5d7f78d95c70" />
