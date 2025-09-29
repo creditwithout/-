@@ -11,3 +11,11 @@ And he is no slouch in robotics either, as in 2022 he reached the national stage
 
 # End Page
 Seteki 2025 - Team Photos - Members - Jonathan Sosa
+![15982aa1-1a88-4c2d-90fb-f7378330140b](https://github.com/user-attachments/assets/7ea92614-c498-4c9e-8f3a-5be4ecb170a6)
+![766fd7cf-46a8-48a7-b97a-1c8b40af8914](https://github.com/user-attachments/assets/c44832af-22af-418f-9706-f9ed9969d948)
+
+
+
+https://github.com/user-attachments/assets/1cab042a-a8d8-4906-ad64-513214beb0da
+
+
