@@ -151,6 +151,16 @@ When we chose this name, it was because we are people who are using the possible
 | Edgar Antonio Ruiz Caballero  | Active participant in robotics competitions such as RoboCup Jr , WRO, and others since 2015. - National Winner of RoboCup Jr 2017 and team coachrepresenting Panama in Nagoya, Japan. - Third Place National Winner in WRO 2018 as team coach for The Oxford School. - National Winner of RoboCup Jr 2018 and team coach representing Panama in Sydney, Australia in 2019. - Participant in 2021 STEAM training hosted by Grupo Editorial EDELVIVES in Madrid, Spain. - National Winner of WRO 2022 and team coach representing Panama in Dortmund, Germany. - National Winner of WRO 2024 (World Robot Olympiad) and team coach representing Panama in Izmir, Turkey. | <img src="https://github.com/user-attachments/assets/fcd9ee06-a977-4ed0-a74c-39fd86166889" alt="Texto descriptivo" width="150"/> | 26 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edgar.r05?igsh=bmtsc2p5NGpxc2Y2) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/Photos%20with%20tutor)
 
 
+> [!IMPORTANT]
+> You can fin more information of every member by clicking [here](https://github.com/creditwithout/-/tree/main/team%20photos/members).
+<br>
+
+## Team Photos😁
+- ### [Formal Photo](https://github.com/creditwithout/-/tree/main/team%20photos/formal%20photos)
+- ### [Funny Photos](https://github.com/creditwithout/-/tree/main/team%20photos/Funny%20photos)
+- ### [Photos with tutor](https://github.com/creditwithout/-/tree/main/team%20photos/Photos%20with%20tutor)
+
+
 ## Robot Name Explication😶‍🌫️
 
 ![Add a subheading (16 x 5 cm) (4096 x 2160 px) (18)](https://github.com/user-attachments/assets/e16e25e0-3c19-4921-90f4-cf0f79d47bd5)
@@ -211,16 +221,53 @@ Usamos una bateria de [litio 12v](https://github.com/creditwithout/-/tree/main/C
 > [in this folder here](https://github.com/creditwithout/-/tree/main/Components) you can find an extended datasheet redacted by the team about every component in the robor.
 <br>
 
+ Every robot electrical component
+- `Ultrasonic Sensors` [3] [HC-SR04](https://naylampmechatronics.com/blog/10_tutorial-de-arduino-y-sensor-ultrasonico-hc-sr04.html)
+  - [Buy Here](https://www.amazon.es/DIGISHUO-ultras%C3%B3nico-medici%C3%B3n-distancia-bricolaje/dp/B0DPZTNKHD/ref=sr_1_2?dib=eyJ2IjoiMSJ9.KWu3ONR1En4VNZKqftz9pqHXgJVzNUjUettwvJ5Q2zFczVbr-4ccDv8cc8KAAsjLvRsRd3rZzChGeqqpYfj0q5hAzUzgA18qE9e4AC5A7QOv-J2YzEVIWnXnwKNHlXDFHp3T43n-_S45BhSgV-lVuzloEYtd8AG5neDnsgkq5s4.pjOwD68Isdbx_nDkPJopwDABYM0tAUDZUAT9AWORB6k&dib_tag=se&keywords=hc-sr04&qid=1751599583&sr=8-2)
+  - [More information here](https://github.com/creditwithout/-/tree/main/Components/HC-SRO4)  
+- `Motor Driver` [1] [Puente H TB6612FNG 1.2A](https://naylampmechatronics.com/drivers/200-driver-puente-h-tb6612fng.html)  
+  - [Buy Here](https://www.amazon.es/CCCAZ1-Controlador-Motor-Microcontrolador-TB6612FNG/dp/B0DM5ZBBH5/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2V1FSLUVPF15O&dib=eyJ2IjoiMSJ9.drPiQv5n5zUlDRjiMZfzDt4WoCkLFktSeDGq3UpgKB_GjHj071QN20LucGBJIEps.WtG8If0gs97LMDdHzBP8KDkQhLRdNNAfeAtPqVAgOvw&dib_tag=se&keywords=TB6612FNG&qid=1751600306&sprefix=puente+h+tb6612fng%2Caps%2C534&sr=8-2)
+  - [More information here](https://github.com/creditwithout/-/tree/main/Components/TB6612FNG)
+- `Servo motor` [1] [INJORA 11KG](https://www.injora.com/products/injora-injs2065-7kg-high-voltage-waterproof-2065-digital-servo-with-mount-for-1-18-trx4m)
+  - [Buy Here](https://www.amazon.com/-/es/digital-impermeable-voltaje-Sub-Micro-Crawler/dp/B0BLBMVYCW/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=39JTCQM4FZA3I&dib=eyJ2IjoiMSJ9.pDedzVFIE59TbIdDwLGPwOAFmy82UT1EuQvk8JTTXqtkyRBFyKEAAufhZUpq5vx_FnvZ5OAjZ4KEp8JMkhCWO0iHDSbnvJ9NJk2g1t7tRKHzUy9fTyfkHTF-Dhous70ssTGi1g0P1LwUqtXB-ypnErwHnT8cZ4e7TQQd0oB3ShcEI10PXvtgX1yJY3xBYtK2XjYisRnFOjZ3KWU6VbN1VbIaEmkpZyhYRRrYRru6BypqC11jBqRKNAeBpAOEqce-GvxjACyk1E_lgXyHkF7Z4rgH5FoNwDqMZJz6SllBV9A.kNqoUJ1ZlRpT1GnD6B2zXMxWpgrfE-THG5jZS3YRTPc&dib_tag=se&keywords=injora%2Bservo%2B7kg&qid=1751600685&sprefix=injora%2Bservo%2B7kg%2Caps%2C162&sr=8-1&th=12)
+  - [More informmation here](https://github.com/creditwithout/-/tree/main/Components/INJORA%20SERVO%2011KG)
+- `Motor` [1] [Metal Gearmotor 25Dx65L mm HP 12V with 800 rpm Encoder](https://www.pololu.com/product/4843)
+  - [Buy Here](https://www.pololu.com/product/4843)
+  - [More information here](https://github.com/creditwithout/-/tree/main/Components/MOTOR)
+- `Voltage Regulator` [1] [LM2596](https://naylampmechatronics.com/conversores-dc-dc/196-convertidor-voltaje-dc-dc-step-down-3a-lm2596.html)
+  - [Buy Here](https://www.amazon.com/LM2596-Convertidor-alimentaci%C3%B3n-Estabilizador-electr%C3%B3nico/dp/B08RS9BSGB/ref=sr_1_2_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2LFD46BH2QD7H&dib=eyJ2IjoiMSJ9.XbA9hfTcASHj_zjN76EOs4Hb4RIo8YjjnrlfWJSAAgur-RJ_ESRKzdbRJEwwRxwbk3PefNnaGTOAWpHikoY0h9b5K-zo7Gy5XW1JDqF0V-7EXoFGSqjs6ZlkcvPqeMXbGQFqtETaYYMULD-IrBwC6JghmugcAWpEx2sYlRnns2h7Q_nuL3pTQEsrlaeu277Y_ujPQK9rL1p9CCvWKvXRCTPSIEMcc6iJ50oCaLLsfjM.tFMp1MvvyU399_R0bza0MDUXWv5wxadCtTdTNfn-ADU&dib_tag=se&keywords=regulador%2Bvoltaje%2Blm2596&qid=1751603227&sprefix=regulador%2Bvoltaje%2Blm259%2Caps%2C154&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+  - [More information here](https://github.com/creditwithout/-/tree/main/Components/LM2596)
+- `Interruptor Latching` [1] [Tact Switch](https://es.aliexpress.com/item/32946132279.html?gatewayAdapt=glo2esp)
+  - [Buy Here](https://www.amazon.com/-/es/TWTADE-surtido-interruptores-moment%C3%A1neo-valores/dp/B0858XRGYW/ref=pd_sbs_d_sccl_2_7/135-1023576-2435918?pd_rd_w=RY99f&content-id=amzn1.sym.2cd14f8d-eb5c-4042-b934-4a05eafd2874&pf_rd_p=2cd14f8d-eb5c-4042-b934-4a05eafd2874&pf_rd_r=CHACEJYQ5WV2N7QQ47QW&pd_rd_wg=bvUnF&pd_rd_r=1626233c-a781-4024-a573-595263fdefa6&pd_rd_i=B0858XRGYW&psc=1)
+- `Capacitors` [2] [capacitors](https://quartux.com/blog/que-es-un-capacitor-o-condensador-electrico/)
+  - [Buy Here](https://www.amazon.com/ALLECIN-surtido-condensadores-electrol%C3%ADticos-aluminio/dp/B0C1VBXCQM/ref=sr_1_1_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M89ISCK3S8W2&dib=eyJ2IjoiMSJ9.ekYH7jx2EeGYfnpDMkTUbDMnAuFO63KcVrPVunIy7CRHO8e5QJEy-3857CSe1eg4OUbfwtTK2SDShcMnKP9CzgwlqtEqTXzybOcSFf-Q-ZMVaZAX1EP6uQHHyUfA29jd0kJiGIxUUDAO7vEiDgOVMEPTwKY3SEv8VoGiPgnnsesGAeNdyQfOp9eCeZx8gZ_j5a4S3xo69azZRVqHiTiIDVoO64mOig6UO86S0UqMF70.K3GvFuksJkC_DUMJnOyC2CNeJZbEKwRDS0pUicT-GOs&dib_tag=se&keywords=capacitores&qid=1751604328&sprefix=capacitore%2Caps%2C159&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- `Male female conectors` [12] [XH-4Y](https://www.walmart.com/ip/2-54mm-Pitch-Connector-Kits-4-Pin-Male-Female-Header-Socket-4Pin-Housing-Cable-Adapter-and-Crimp-DIP-Kit-600pcs/1723812568?wmlspartner=wlpa&selectedSellerId=571)
+  - [Buy Here](https://www.amazon.com/-/es/JST-conectores-terminales-compatible-XH2-2-126/dp/B0DN6LGG94/ref=sr_1_8?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2AE4HLUTRJ9SS&dib=eyJ2IjoiMSJ9.NnyMu7hO2SVrdyPBJN7NO77ZVZ2ugHXBkkkaCCiNyeKHiLziYyMs-lEZmIQ1-dJ9ktRSqjF-4_uKqNYhg9ZB0S15FbPAi4w9gAEO1Iy6-IStQl3-BHDoWcEjXh42PaKEA-vmcFIbb2rPfxs-YyFuOeNXvnW2jRvecGDMS9x-G7dHiQDt3lnSIeAqSfjPgzCZ3u1pP2eFhNjxl5quT46KEppnWiBBxohwEII_RnMwt5Jwfk61lMSda-SobBDmfmzkAWKf0p-P24b2oFwaQYOJjSf2qrj5nrXztkx6eq9FieI.VkQnl6Pdz1GoL5LwaXuy1JeLvEloFUYtk6e1wzgczs4&dib_tag=se&keywords=male+female+connectors+housing+socket&qid=1751604585&sprefix=male+female+connectors+housing+socke%2Caps%2C139&sr=8-8)
+- `Gyroscope BNO086` [1] [BNO086 (IMU Sensor)](https://naylampmechatronics.com/blog/45_tutorial-mpu6050-acelerometro-y-giroscopio.html)
+  - [Buy Here](https://www.amazon.com/-/es/unidades-GY-521-aceler%C3%B3metro-giroscopio-convertidor/dp/B07RXQGGJX/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2L4V0CV79NO2W&dib=eyJ2IjoiMSJ9.qpoHAAUW3irHLKsdM7PPM5NBf7SKxa6BD1TkwIyPqwmKly7Y9c5UWNMM9-7OsQYQMJZcNBAGf3ZmygeYgLWqZqvWgM5afEOJTB4fPG891dAheAphOjcGWpd4x34YMxmEdJ5ePKiu8K5F3ZjQmBXwlSMKObCRZ9tnQG6uFa_B9EaLYYN9G0nPoO0eG9fASoaJXfduvQBcQ3AReHsqEDc10Rva1rU76h0IeybHs1pnKM4.B5jvLrUBop85HLZ4cUAY0-1O0FLE4rE4qaIXJNFA9EE&dib_tag=se&keywords=mpu%2B6050&qid=1751604792&sprefix=mpu%2B6050%2Caps%2C200&sr=8-1&th=1)
+  - [More information](https://github.com/creditwithout/-/tree/main/Components/BNO086)
+- `Micro-controller` [1] [Arduino NANO ESP32](https://store.arduino.cc/products/nano-esp32?srsltid=AfmBOor1ZPTTOx_mqwjYCxh9cpnrrSOmZiry-TUbDsQwkmkYgxsAu0NA)
+  - [Buy Here](https://www.amazon.com/-/es/Arduino-Nano-ESP32-encabezados-ABX00083/dp/B0C947BHK5/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29Y3DLEPEP6M&dib=eyJ2IjoiMSJ9.GzP-GvhsR81ftjmV7C-hRYZKKdZl_4SwzDvNEsHgVcLgfBDXotzR_2B9qMdtU20mDrlDinwBUQ5g1iugiHRVYRTV5tvC7YdWlos16xz020EAoEohJyKgM87SBHIVleElW2Uhc1Osw9jGGB9UAaeGQ1-ViiG3sax4Y5GhKtxay_d4RzC_74baCcfdzeD8SuxL6HHxvyXsPTPJIQEZw7NaMZ3qbe5P2to2de54JyeOLbY.v7JddLOtqj4SwjgViGYaMYtKJvGingTbI1jpdj-jbCg&dib_tag=se&keywords=arduino+nano+esp32&qid=1751605117&sprefix=arduino+nano+esp3%2Caps%2C185&sr=8-1)
+  - [More information](https://github.com/creditwithout/-/tree/main/Components/Arduino%20Nano%20ESP32)
+- `Terminal` [1] [PCB Terminal](https://www.ebay.com/itm/176852835599?itmmeta=01JZ9X3R3QBK5K1NX5JNW7MXZ6&hash=item292d401d0f:g:p5IAAeSwJsJnstho&itmprp=enc%3AAQAKAAAAwMHg7L1Zz0LA5DYYmRTS30kCfKFbi3yHGkq1MAigctijtUt88k8H0fTQlTVl15zQ2rAFxqJjvAGmHz3tLKUvaKPRSjRN%2B%2BJrLsqUnZafJAgAm3oRw4WmHg%2B2DOoLcsKFhm2lR3MkOOU9h2U5o4UVFBWpTzruXRgLNNrj2y%2FqHwPYrVTSOD0OVdF6qzSFwuMP4fI0ZqCfeSBqhpRA5e2FkJhfhBGYlbqVtqNu%2Bwu%2BSthBklZta99XLNW1qW1fRza9aA%3D%3D%7Ctkp%3ABk9SR4CCj736ZQ)
+  - [Buy Here](https://www.amazon.com/Conector-terminales-proyectos-electr%C3%B3nica-dom%C3%A9stica/dp/B09ZXK9WHW/ref=sxin_17_pa_sp_search_thematic_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&content-id=amzn1.sym.2da95b6c-f59a-4699-bc43-d0ff036c6388%3Aamzn1.sym.2da95b6c-f59a-4699-bc43-d0ff036c6388&crid=1YVO1WLOHFR5&cv_ct_cx=terminal%2Bconnectors&keywords=conectores%2Bterminales&pd_rd_i=B09ZXK9WHW&pd_rd_r=7383269b-387d-43db-99ad-aa3535ebaf9d&pd_rd_w=wZUE0&pd_rd_wg=8AWvZ&pf_rd_p=2da95b6c-f59a-4699-bc43-d0ff036c6388&pf_rd_r=KG31P5Y328KMM66PDG4D&qid=1751605401&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=conectores%2Bterminale%2Caps%2C235&sr=1-1-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
+- `Prototype wires` [32] [Prototype wires](https://shop.complubot.com/10-cables-prototipado-m--m-100-mm-p-1-50-142/)
+  - [Buy Here](https://www.amazon.com/b%C3%B3vedas-0-079-4-921-Flexible-Breadboard-Connecting/dp/B08YRGVYPV/ref=sr_1_2_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2GXV9UTVOWUEX&dib=eyJ2IjoiMSJ9.qJE7UjNibAzbwpMmx2tJ0wsODsLFmAeWjM_Y5uH3tYc7WkhPXJHLmzQ4cWxb1kSgsK0xVEqc_JdBNHa8Xo9ScbKLFz3DlAZ__nCQ8aqNfPU6XT1yFdm4HjvD-pYpjNOepGBohRF5BsO1XTZz3EE73trxEnyharcEJ1j_YdNIGbhdOT4Y2JqKvzPldge-phJE3mUKcjYkrgz6wTsw6S1kAtzf_C6TrbusVlqbsMnm42Q.tyvH9VLgKBn5yBOxBo9bTOfyW5oWTQQ4KZh2599g0Dg&dib_tag=se&keywords=cables%2Bde%2Bprototipado&qid=1751605743&sprefix=cables%2Bde%2Bprototipado%2Caps%2C179&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+- `Normal Wires` [11] [Normal Wires](https://electric-house.com/en/new-cables-wires-accessories/british-standard-wires-nya/normal-nya-wires.html?srsltid=AfmBOorK2BMxiZ4gTxS0S5ninaXnFpPJbrgoomhanURMuMzGaHGF6dQk)
+  - [Buy Here](https://www.amazon.com/Aypzuke-compatible-proyectos-Arduino-Raspberry/dp/B0BTT31CBC/ref=sr_1_3_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=TFXF2UHV2NS4&dib=eyJ2IjoiMSJ9.VcNFeYpulSX_NTIy1KXkQggcp-48UG9UekumyelzK0CeBw6JChF6zsxr7757KUysu5xGHSpBuUdvKSJQ-LRQEaWMG-ycX9gnJE0XKopZErGxhFbhdB8wTdbEvlA5T52-WkqW3uqKD2qc4_CJMUu5W4qRyrZOMe8NqwT0CZY1XEKEUfBDfvH2mEJBSyhg8NjnHVV43enYU9U8p5E_DjfvWE-rXbrSCzbwORXEzr4T2NmQ_RM_M_RoKvaRAuKND60f3jDt_UsHVGakYrINHXe0ow3RKZlNeg-R-3hFoy0Q1Pc.XJojPOqW2Nc7Q19pEJ6ot4EO5Nwthnk7bUzR9zfOi-Y&dib_tag=se&keywords=wires&qid=1751606644&sprefix=wire%2Caps%2C178&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+- `Camera` [1] [Open MV H7 Plus](https://openmv.io/products/openmv-cam-h7-plus?gad_source=1&gad_campaignid=21060752326&gbraid=0AAAAADOSICr5HwPfLzCUJfli_Yz4UIKcv&gclid=Cj0KCQjw953DBhCyARIsANhIZoaLXqyA-gyrlXq3Lu6yv-o0bd69mEue9ASa_gCTEY3164RhAqh5ulIaAi49EALw_wcB)
+  - [Buy Here](https://www.amazon.com/-/es/OpenMV-Cam-Plus-Procesamiento-Aprendizaje/dp/B09WYQMDX2/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2859PZDSPN330&dib=eyJ2IjoiMSJ9.Yc_Q0-hCd894n0G_bcZZcG5GLDu03BqtDn-EU583afbGjHj071QN20LucGBJIEps.kLnSV8GtWs0h_VCoLpXTCSdLSwLYKPy-hdndV3Q36dI&dib_tag=se&keywords=open+mv+h7+plus&qid=1751656221&sprefix=openmv+h7+plus%2Caps%2C225&sr=8-1)
+  - [More information](https://github.com/creditwithout/-/tree/main/Components/Open%20MV%20H7%20Plus)
+- `Lipo Battery` [1] [Airsoft LIPPO Battery 11.1V](https://ampedairsoft.com/high-power-airsoft-hpa-lipo-battery-deans/?srsltid=AfmBOopO9qeoV56RR8JgdX3IUPpEP28VoUCsk4092drezXA60EzKM6kk)
+  - [Buy Here](https://ampedairsoft.com/high-power-airsoft-hpa-lipo-battery-tamiya/)
+- `Ceramic Capacitors` [2] [Ceramic Capacitors](https://ampedairsoft.com/high-power-airsoft-hpa-lipo-battery-deans/?srsltid=AfmBOopO9qeoV56RR8JgdX3IUPpEP28VoUCsk4092drezXA60EzKM6kk)
+  - [Buy Here](https://ampedairsoft.com/high-power-airsoft-hpa-lipo-battery-tamiya/)
 
+> [!WARNING]
+> You can see a more extenden explanation of every component in the folders, anyway in the component list you can find the link to go to a extended explanation of every component, thanks
+<br>
 
-## Camara Carrier
-This is the support for the OPEN MV H7 Plus camera.
-
-### 3D VIEW
-
-| 3D |
-|:---|
-|  <img align="center" width="420" src="https://github.com/user-attachments/assets/79233950-bc51-4164-a1d9-100a83fdf0f5" alt="A"/> |
+#
 
 > [!NOTE]
 > We use CREALITY PETG 
