@@ -102,7 +102,7 @@ This is the official repository of the Seteki® team that will represent Institu
 We are Team Seteki, proudly representing Instituto Episcopal San José in Panama’s World Robot Olympiad (WRO) Future Engineers 2025 category. Our mission is to blend technology and innovation, knowing that innovation can go hand-in-hand with responsability.
 
 ### Our Philosophy 😎
-We are a team in which there are no hierarchies in the team, we each develop our parts and we are all involved and we `KNOW` every part of the realization of this whole project that would be our robor [ARA](https://github.com/seteki/III-Wind/tree/main/ARA%20Versions), we have values of humility and perseverance as a team, both when we work as a team as well as when we go to compete, we are a team in which two already have experience in what is robotics and specifically the WRO competition and we have a rookie in this world of what robotics is.
+We are a team in which there are no hierarchies in the team, we each develop our parts and we are all involved and we `KNOW` every part of the realization of this whole project that would be our robor [ARA](https://github.com/creditwithout/-/tree/main/ARA%20Versions), we have values of humility and perseverance as a team, both when we work as a team as well as when we go to compete, we are a team in which two already have experience in what is robotics and specifically the WRO competition and we have a rookie in this world of what robotics is.
 
 With our project we want to innovate and bring something that is well worked to this competition, we want the effort put into this robot to be noticed.
 
@@ -130,18 +130,19 @@ When we chose this name, it was because we are people who are using the possible
 ### Jean Sosa
 | Name | Description & Rol | GIF | Age | IG | More |
 |:---|:---|:---|:---|:---|:---|
-| Jean Paul Sosa Cruz  | Robot logic developer, 3D designer and 3D printing, Robot documentation as well as team workflow. for him all is music, and playing instruments, and has a good trayectory in robotics. | <img src="https://github.com/user-attachments/assets/1c16c5db-2f2a-4098-ac7d-9cfb4c9c3b36" alt="Texto descriptivo" width="150"/> | 18 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jean_zo3/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Jean%20Paul)
+| Jean Paul Sosa Cruz  | Robot logic developer, 3D designer and 3D printing, Robot documentation as well as team workflow. for him all is music, and playing instruments, and has a good trayectory in robotics. | <img src="https://github.com/user-attachments/assets/71c50c46-727e-46a6-a58a-23ba7d327427" alt="Texto descriptivo" width="150"/> | 18 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jean_zo3/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Jean%20Paul)
+
 
 ### Jonathan Sosa
 | Name | Description & Rol | GIF | Age | IG | More |
 |:---|:---|:---|:---|:---|:---|
-| Jonathan Michael Sosa Cruz  | He is the mechanical genius of the team, he repairs and builds anything and he is in charge of all the robot's circuitry, he only thinks about soccer and getting home to play the bass guitar. | <img src="https://github.com/user-attachments/assets/836f9e07-246b-46cd-b37e-ef4919c4a225" alt="Texto descriptivo" width="150"/> | 15 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jony.wrr3/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Jonathan%20Michael)
+| Jonathan Michael Sosa Cruz  | He is the mechanical genius of the team, he repairs and builds anything and he is in charge of all the robot's circuitry, he only thinks about soccer and getting home to play the bass guitar. | <img src="https://github.com/user-attachments/assets/81060076-cb45-460c-b5f2-bd155434978e" alt="Texto descriptivo" width="150"/> | 15 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jony.wrr3/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Jonathan%20Michael)
 
 
 ### Anthony Gomez
 | Name | Description & Rol | GIF | Age | IG | More |
 |:---|:---|:---|:---|:---|:---|
-| Anthony Bruce Gomez Arjona  | He is the nerdiest of the three, he is the scientist and physicist of the team, he is the developer of the logic and he is in charge of the programming, talk to him about jurasic park and you will have all his attention. | <img src="https://github.com/user-attachments/assets/8f248b35-607d-445a-bf8e-bd88bca2a894" alt="Texto descriptivo" width="150"/> | 17 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anthonyg.exe/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Anthony%20Bruce)
+| Anthony Bruce Gomez Arjona  | He is the nerdiest of the three, he is the scientist and physicist of the team, he is the developer of the logic and he is in charge of the programming, talk to him about jurasic park and you will have all his attention. | <img src="https://github.com/user-attachments/assets/1076f695-bbae-4e03-aa04-83bee9c2621d" alt="Texto descriptivo" width="150"/> | 17 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anthonyg.exe/) | [More about him](https://github.com/creditwithout/-/tree/main/team%20photos/members/Anthony%20Bruce)
 
 ### Edgar Ruiz
 | Name | Description & Rol | GIF | Age | IG | More |
