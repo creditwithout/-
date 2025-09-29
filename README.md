@@ -119,6 +119,7 @@ It is a small species of anuran amphibian of the Bufonidae family.
   <img src="https://github.com/user-attachments/assets/1743994f-4b8e-47a4-bd1a-c07c2f21a792" alt="Texto descriptivo" width="300"/>
 </div>
 
+
 When we chose this name, it was because we are people who are using the possible resources to develop these robots and technology, but sometimes we forget that all this comes from natural resources and we are taking advantage of all this and we do not take care of it, and as a small annex we wanted to give this message that we also have a responsibility to the world and in addition to this we also want to have our country represented in our team.
 
 > [!WARNING]
@@ -152,15 +153,15 @@ When we chose this name, it was because we are people who are using the possible
 
 ## Robot Name Explication😶‍🌫️
 
-![Add a subheading (16 x 5 cm) (4096 x 2160 px) (1)](https://github.com/user-attachments/assets/825ed7d8-fa21-48f2-8116-72e9b91f87fa)
+![Add a subheading (16 x 5 cm) (4096 x 2160 px) (18)](https://github.com/user-attachments/assets/e16e25e0-3c19-4921-90f4-cf0f79d47bd5)
+
 
 The name of all versions of our robot (ARA) comes from  [***Ara macao***](https://es.wikipedia.org/wiki/Ara_(animal)#:~:text=Ara%20macao%20(Linnaeus%2C%201758),cyanopterus%20Wiedenfeld%2C%201995%E2%80%93), practically the name of the macaw family. Macaws are large parrots measuring 46 to 51 cm in length and weighing 285 to 287 g in the case of the great macaw, and 90 to 95 cm and 1,708 g in the case of the green-winged macaw.
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/32a1cc70-b7b6-43cc-9508-4e4f167e6466" alt="Texto descriptivo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/38a74a08-e4e0-4a41-96c0-7b759159361f" alt="Texto descriptivo" width="200"/>
 </div>
-
 
 
 > [!NOTE]
