@@ -170,32 +170,34 @@ The name of all versions of our robot (ARA) comes from  [***Ara macao***](https:
 
 ### Robot Versions🚘
 
-| 1.0 | 1.1 | 2.12 | 2.13 | 2.14
-|:---|:---|:---|:---|:---|
-| It has 3 ultrasonics, No differential | It's the same configuration than 1.1 version, but de 3D designs had a big improvement. | Has only camera, no ultrasonics, has a differential integrated. | This one has 2 ultrasonics and the camera, we quit differential to keed developing it | this one has 3 ultrasonics and a great improvement in 3D designs. |
+| 1.1 | 2.14 | 3.1 (National) |
+|:---|:---|:---|
+| It's the same configuration than 1.0 version, but de 3D designs had a big improvement.  [more information](https://github.com/creditwithout/-/tree/main/ARA%20Versions/1.1) | this one has 3 ultrasonics and a great improvement in 3D designs. [more information](https://github.com/creditwithout/-/tree/main/ARA%20Versions/2.14) | Has a differential included and more angle for steering [more about](https://github.com/creditwithout/-/tree/main/ARA%20Versions/3.1%20(National)) |
 
+## Mobility Management 
 
-## Chasis & 3D Designs🚖
+### `3D Models`
+- In the [3D Model](https://github.com/creditwithout/-/tree/main/3D%20Models) Folder you will find and extended information about everything relationated with 3D pieces in the robot, an also explaining how we build our differential traction, all about the steering, and also the printer and the filaments we use for the project, anyway here we'll explain all about the differential.
 
-![Copy of Add a subheading (16 x 5 cm) (4096 x 2160 px) (1)](https://github.com/user-attachments/assets/25e65803-b669-43f5-8432-e88e61ceb2de)
+You can also visualize all our 3D Model for the 1.1, 2.14 and the National version By going here
 
-### Every Platform we use for ARA 3.1🛹
-
-| <img align="center" width="250" src="https://github.com/user-attachments/assets/0b077cdf-4ffa-4f3e-b979-41f18b5fc211" alt="ARTURO" />| <img align="center" width="250" src="https://github.com/user-attachments/assets/a76178d7-bc71-493e-8c93-877893848531" alt="ARTURO" /> |
-| :------------: |:-------------:| 
-|[ OnShape ](https://www.onshape.com/en/)|[ Autodesk FUSION 360 ]( https://www.autodesk.com/products/fusion-360/overview )
-
-## Main chassis🚄
-Our chassis is fully printed with CREALITY PETG-CR filament material, as we want our chassis to be resistant and not wear out so quickly when implementing gear mechanisms.
 > [!NOTE]
-> Click [here](https://ebird.org/species/scamac1?siteLanguage=es_PA) To see the 3D Chasis part.
+>You can also visualize all our 3D Model for the 1.1, 2.14 and the National version By going [here](https://github.com/creditwithout/-/tree/main/3D%20Models) .
 <br>
 
-### All Sides
+### ` Differential `
 
-| ABOVE | BELOW | FRONT | BACK |
-|:---|:---|:---|:---|
-|  <img align="center" width="450" src="https://github.com/user-attachments/assets/681f374c-e3e8-499e-9e2e-ae565a02f217" alt="A"/> |  <img align="center" width="450" src="https://github.com/user-attachments/assets/1abaa775-6ea3-4da7-8ddb-7d85bd9b1415" alt="ARTURO"/> | <img align="center" width="450" src="https://github.com/user-attachments/assets/d1165913-5ffd-4341-955f-7c15faa53d30" alt="ARTURO"/> | <img align="center" width="450" src="https://github.com/user-attachments/assets/37632682-d456-4077-a6ba-3d99ba375824" alt="ARTURO"/> |
+![7d3144b8-8908-438d-ba55-42e69fd148e3](https://github.com/user-attachments/assets/6f25180b-b01a-493f-b30c-006894917947)
+
+`Why we use this mechanism?`
+- Because using this mechanism mainly helps us when leaving and parking in the parking lot, since when the robot without differential makes a turn, the wheels will be turning at the same speed, which does not help us since obviously in a turn one wheel will have to travel further than the other, so when the robot has to turn with the differential, it will avoid this skidding that can cause our  old pinion and axle system.
+
+- Some disadvantages are that with the 2.14 robot after the second regional, that well-optimized robot with an 800 RPM motor was doing it in `25 seconds`, but the transmission of speed when there are more gears will cause our robot to go slower, so now we are doing the first round in `42 second`s.
+
+> [!NOTE]
+> [in thisfolder here](https://github.com/creditwithout/-/tree/main/3D%20Models/3.1%20(National)) You can watch assembly animations of our car.
+<br>
+
 
 ### GIF View 3D
 
