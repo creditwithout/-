@@ -16,3 +16,5 @@ And in 12th grade, I participated for the second time in the Future Engineers ca
 ![0b76f271-018c-4095-b931-8b2071185fce](https://github.com/user-attachments/assets/74c7d7cf-9a1e-46f6-af37-e01e51e0b585)![c24d0bd4-669f-49a7-b6b7-36f3bdecdacf](https://github.com/user-attachments/assets/916e7b2d-4f9b-4be3-88d5-164a2f15ecaf)
 ![c7da9600-9400-43d6-989a-359a1d5589d6](https://github.com/user-attachments/assets/dac6444a-e4b4-4cd0-baa7-02708c1aba65)
 
+# End Page
+Seteki 2025 - team photos -members- jean paul sosa cruz
