@@ -24,15 +24,34 @@ This is the official repository of the Seteki® team that will represent Institu
 │   ├── 📁 1.1               # 1.1 Models
 │   ├── 📁 2.14              # 2.14 Models
 │   ├── 📁 3.1 (National)    # 3.1 Models
+│   ├── 📁 3D Printer and    # filaments
 │   └── 📄 README.md         # 3D models explained
 ├── 📁 Ara Versions          # Contains an explanation of every ARA Robot
+│   ├── 📁 1.1               # ara 1.1
+│   ├── 📁 2.14              # 2.14
+│   ├── 📁 3.1(National)     # 3.1
 │   ├── 📄 ara.md            # A tiny graph of the models
 │   └── 📄 README.md         # Explanation of every model
+├── 📁 Components            # Every Robot component with and extended information
+│   ├── 📁 Arduino Nano ESP32# microcontroller
+│   ├── 📁 BNO086            # IMU
+│   ├── 📁 HC-SR04           # ultrasonics
+│   ├── 📁 INJORA SERVO      # Servomotor
+│   ├── 📁 LM2596            # Regulator
+│   ├── 📁 MOTOR             # POLOLU
+│   ├── 📁 OPEN MV H7 PLUS   # Camera
+│   ├── 📁 TB6612FNG         # Motor Driver
+│   └── 📄 README.md         # Explanation
 ├── 📁 SCHEMES               # All of the circuit
 │   ├── 📁 Cirkit designer   # Interactive circuit
 │   ├── 📁 Fritzing          # Our Circuit in Fritzing
 │   ├── 📁 PCB               # Every Of the realization of our PCB
 │   └── 📄 README.md         # Explanation
+├── 📁 GitHub Printables     # All PDF Githubs ready to print
+│   ├── 📁 1.1               # 1.1 pdf
+│   ├── 📁 2.14              # 2.14 pdf
+│   ├── 📁 3.1(national)     # 3.1 pdf
+│   └──📄 README.md          # Explanation
 ├── 📁 media                 # All our social media
 │   └──📄 README.md          # Explanation
 ├── 📁 Robotlogic & analysis # How our robot is working
@@ -48,6 +67,11 @@ This is the official repository of the Seteki® team that will represent Institu
 │   ├── 📁 First Challenge   # Codes of the first round
 │   ├── 📁 Second Challenge  # Codes of the second round
 │   └──📄 README.md          # Explanation
+├── 📁 Team Analysis         # Other project studies
+│   ├── 📁 Work Schedule     # work time
+│   ├── 📁 project cost analy# cost history 3.1
+│   ├── 📁 workflow          # a diagram of how we work
+│   └──📄 README.md          # Explanation
 ├── 📁 team photos           # Our photos as participant
 │   ├── 📁 Funny photos      # All the funny photos
 │   ├── 📁 Photos with tutor # Our photos with our tutor
@@ -58,11 +82,6 @@ This is the official repository of the Seteki® team that will represent Institu
 │   ├── 📁 First Challenge   # All videos of first round
 │   ├── 📁 Other videos      # Other explicative videos
 │   ├── 📁 Second Challenge  # All videos of the second round
-│   └──📄 README.md          # Explanation
-├── 📁 GitHub Printables     # All PDF Githubs ready to print
-│   ├── 📁 1.1               # 1.1 pdf
-│   ├── 📁 2.14              # 2.14 pdf
-│   ├── 📁 3.1               # 3.1 pdf
 │   └──📄 README.md          # Explanation
 └── 📄 README.md             # Main documentation for the project
 ```
