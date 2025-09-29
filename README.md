@@ -192,39 +192,26 @@ You can also visualize all our 3D Model for the 1.1, 2.14 and the National versi
 `Why we use this mechanism?`
 - Because using this mechanism mainly helps us when leaving and parking in the parking lot, since when the robot without differential makes a turn, the wheels will be turning at the same speed, which does not help us since obviously in a turn one wheel will have to travel further than the other, so when the robot has to turn with the differential, it will avoid this skidding that can cause our  old pinion and axle system.
 
-- Some disadvantages are that with the 2.14 robot after the second regional, that well-optimized robot with an 800 RPM motor was doing it in `25 seconds`, but the transmission of speed when there are more gears will cause our robot to go slower, so now we are doing the first round in `42 second`s.
+- Some disadvantages are that with the 2.14 robot after the second regional, that well-optimized robot with an 800 RPM motor was doing it in `25 seconds`, but the transmission of speed when there are more gears will cause our robot to go slower, so now we are doing the first round in `42 seconds`.
 
 > [!NOTE]
-> [in thisfolder here](https://github.com/creditwithout/-/tree/main/3D%20Models/3.1%20(National)) You can watch assembly animations of our car.
+> [in this folder here](https://github.com/creditwithout/-/tree/main/3D%20Models/3.1%20(National)) You can watch assembly animations of our car.
 <br>
 
 
-### GIF View 3D
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/56de0881-6fcf-40b4-abc4-ee2c8b8be00b" alt="Texto descriptivo" width="200"/>
+</div>
 
-| Animation |
-|:---|
-|  <img align="center" width="420" src="https://github.com/user-attachments/assets/4af291ba-3836-4bd2-9650-af1cb0d5e7e4" alt="A"/> |
+## Power Management
+Usamos una bateria de [litio 12v](https://github.com/creditwithout/-/tree/main/Components) Con la que la alimentamos al cicuito y al [driver de motor](https://github.com/creditwithout/-/tree/main/Components/TB6612FNG) with which we power our motor. You can find a more detailed explanation of this in the circuits folder, where we explain everything about voltage management and how the voltage components are connected in the robot.
+
+## Robot Components
+> [!NOTE]
+> [in this folder here](https://github.com/creditwithout/-/tree/main/Components) you can find an extended datasheet redacted by the team about every component in the robor.
+<br>
 
 
-### SCHEMATIC VIEW
-
-| Schematic |
-|:---|
-|  <img align="center" width="420" src="https://github.com/user-attachments/assets/5fbe1dc9-d390-4abd-a9f4-7ce9337a694c" alt="A"/> |
-
-## Steering
-
-### real view
-
-| physical |
-|:---|
-|  <img align="center" width="420" src="https://github.com/user-attachments/assets/2621ca6f-3fa0-4c0b-a34f-92368856993f" alt="A"/> |
-
-### 3D VIEW
-
-| 3D |
-|:---|
-|  <img align="center" width="420" src="https://github.com/user-attachments/assets/eb1349a6-02d3-4c74-b6b5-9b7c4131567e" alt="A"/> |
 
 ## Camara Carrier
 This is the support for the OPEN MV H7 Plus camera.
