@@ -12,6 +12,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/setekiteam/)
 [![YouTube](https://img.shields.io/badge/YouTube-%21E5395F.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@setekiteam)
 [![GitHub](https://img.shields.io/badge/GitHub-%23E4419F.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/seteki/Seteki-Team)
+[![Web Page](https://img.shields.io/badge/Webpage-8A2BE2.svg?style=for-the-badge&logo=Web&logoColor=blue)](https://seteki.vercel.app/)
+[![Clash Royale](https://img.shields.io/badge/ClashRoyale-7B2fA2.svg?style=for-the-badge&logo=Web&logoColor=blue)](https://link.clashroyale.com/invite/clan/es/?platform=iOS&tag=G8YULLJP&token=3jhdxkac)
 
 This is the official repository of the Seteki® team that will represent Instituto Episcopal San José in the WRO category: Future Engineers 2025, Panama.
 <br><br>
